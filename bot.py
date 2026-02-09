@@ -11,7 +11,7 @@ import os
 TOKEN = os.getenv("BOT_TOKEN")
 
 WEBAPP_URL = "https://llxickvpn.vercel.app/"
-SUB_LINK = "https://llxickvpn.vercel.app/api/index"
+SUB_LINK = "https://llxickvpn.vercel.app/api/index#LLxickVPN"
 CHANNEL_ID = "@LLxickVPN"
 SUPPORT_USER = "LLxick2"
 DONATE_URL = "https://yoomoney.ru/to/4100119272702525"
