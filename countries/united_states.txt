@@ -1,6 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 21:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 21:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 1
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.138.153:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.150.170:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bbbffvg.0oh.ccwu.cc&sni=bbbffvg.0oh.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bnjui.2nn.ccwu.cc&fp=chrome&sni=bnjui.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
