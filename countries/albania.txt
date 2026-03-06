@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 23:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 23:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiNTRZOXhhMTJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=041.electrocellco-cf-041.workers.dev&fp=chrome&sni=041.electrOCElLcO-CF-041.woRKerS.DEV&alpn=http%2F1.1#🌍 Albania | OC NETWORKS LIMITED 1

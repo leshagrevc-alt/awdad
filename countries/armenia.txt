@@ -1,9 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 23:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 23:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&flow=xtls-rprx-vision&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&fp=chrome&sni=max.ru&type=tcp&headerType=none&path=%25252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 1
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&alpn=h2%25252525252Chttp%252525252F1.1#🇦🇲 Armenia | Host Telecom LTD 2
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&flow=xtls-rprx-vision&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&fp=chrome&sni=max.ru&type=tcp&headerType=none&path=%25252525252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 3
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&path=%25252525252525252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 4
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&flow=xtls-rprx-vision&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&fp=chrome&sni=max.ru&type=tcp&headerType=none&path=%25252525252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 1
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&spx=/#🇦🇲 Armenia | Host Telecom LTD 2
