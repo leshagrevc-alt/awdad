@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 21:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 22:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://129731b5-e5d5-44f8-b70b-57645a2e527c@79.137.174.106:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 1
-vless://129731b5-e5d5-44f8-b70b-57645a2e527c@79.137.174.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 2
+vless://2030daef-3048-4a1c-9573-8888e7e2f6b5@79.137.174.106:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 1
