@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🇬🇧 BobiVPN United Kingdom
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+HrPCfh6cgQm9iaVZQTiDigJQgVW5pdGVkIEtpbmdkb20K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s736.ccgfw.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u710297u833ds736.ccgfw.top&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=s736.ccgfw.top#🇬🇧 United Kingdom | Hostshield LTD 1
