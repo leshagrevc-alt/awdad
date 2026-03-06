@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 22:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F&type=tcp&headerType=none#🇳🇱 The Netherlands | Liam Kremer 1
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 2

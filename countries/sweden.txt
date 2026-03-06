@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 22:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇸🇪 Sweden | Internetport AB -BL 1
 vless://a5ca6aa5-0354-1770-b094-741b1dfe4daa@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇸🇪 Sweden | Play2go International 1
