@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&flow=xtls-rprx-vision&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&fp=chrome&sni=max.ru&type=tcp&headerType=none&path=%252525252525252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 1
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&path=%2525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 2
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&path=%252525252525252F#🇦🇲 Armenia | Host Telecom LTD 3
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&alpn=h2%25252525252Chttp%252525252F1.1#🇦🇲 Armenia | Host Telecom LTD 1

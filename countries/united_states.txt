@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh7ggQm9iaVZQTiDigJQgVW5pdGVkIFN0YXRlcwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 1
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 2
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 3
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80?encryption=none&type=ws&security=none&path=%2FXR8So0uqFVa3vY9ZbxgW4&host=ghju.apocalypse.cc.cd#🇺🇸 United States | Massivegrid LTD 1
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=nnhhhjuuu.1xa.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 2
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net#🇺🇸 United States | HostPapa 3
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nnmkl.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.26.122:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
