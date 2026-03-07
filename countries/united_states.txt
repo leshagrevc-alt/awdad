@@ -1,10 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 10:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 10:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://c978c337-fd96-1b58-9758-dce2fc3ae278@109.120.189.25:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#🇺🇸 United States | Scalaxy B.V. 1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&type=grpc&security=tls&mode=gun&fp=chrome&sni=pqh30v1.carwashipdir.shop#🇺🇸 United States | WorkTitans B.V. 1
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=ujk.003330333.xyz&fp=chrome&sni=ujk.003330333.xyz#🇺🇸 United States | HostPapa 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh30v5.carwashipdir.shop&alpn=h2#🇺🇸 United States | WorkTitans B.V. 1
