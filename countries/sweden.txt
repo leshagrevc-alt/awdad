@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 12:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a01881a8-3d9b-48bb-9a9c-e96e8b40b2c6@5.188.115.33:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=5e6f7a8b#🇸🇪 Sweden | RCS Technologies FZE 1
+vless://c9a92653-69ef-4291-b2c9-fd0ed9e6d4ea@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1

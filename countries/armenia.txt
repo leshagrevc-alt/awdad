@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 12:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&flow=xtls-rprx-vision&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&fp=chrome&sni=max.ru&type=tcp&headerType=none&path=%252525252525252525252525252525252525252525252F#🇦🇲 Armenia | Host Telecom LTD 1
-vless://737893f0-8d82-4ecb-88d4-b2c46c02673d@87.242.102.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=panel.strelkavpn.com&pbk=cQv6oWT-6Z_nkoaBlDRdK-g0O0n6_GmQlc8HtD0mE1Y&sid=aa8abe74#🇦🇲 Armenia | WorkTitans B.V. 1
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&sni=max.ru&alpn=h2%25252525252525252Chttp%25252525252525252F1.1#🇦🇲 Armenia | Host Telecom LTD 1
