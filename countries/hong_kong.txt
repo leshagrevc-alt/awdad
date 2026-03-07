@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.16.250.22:443?encryption=none&type=ws&security=tls&path=%2Fdb1024efd9edc1a9&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇭🇰 Hong Kong | Akile LTD 1
+vless://873a8e21-5fed-36a7-b251-734ebc97381c@104.16.250.22:443?encryption=none&type=ws&security=tls&path=%2Fdb1024c59ce5eab9&host=s6.oboob.cn&fp=chrome&sni=s6.oboob.cn&alpn=h3%2Ch2#🇭🇰 Hong Kong | Akile LTD 2

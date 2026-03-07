@@ -1,9 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Baxet Group 1
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=afxmsv51.fx02.ccwu.cc&sni=afxmsv51.fx02.ccwu.cc#🇸🇪 Sweden | Cloudflare, 1
-vless://77777777-6663-4ef2-b26b-ed2d70642678@104.18.42.163:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=8fbxjhscv17.fx02.ccwu.cc&sni=8fbxjhscv17.fx02.ccwu.cc#🇸🇪 Sweden | Cloudflare, 2
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Cloudflare, 3
+vless://a01881a8-3d9b-48bb-9a9c-e96e8b40b2c6@5.188.115.33:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=5e6f7a8b#🇸🇪 Sweden | RCS Technologies FZE 1
