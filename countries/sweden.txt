@@ -1,8 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 06:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?encryption=none&type=ws&security=tls&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇸🇪 Sweden | Play2go International 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Play2go International 2
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | The Constant Company 1
+vless://c9a92653-69ef-4291-b2c9-fd0ed9e6d4ea@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://69b4a613-e35a-4b4a-aafc-c39a074e41e0@84.201.140.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 2
