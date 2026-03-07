@@ -1,10 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 13:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 13:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
-vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 2
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.60.124:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 2
+vless://9f9b2ba3-77c1-400f-9b72-76b9b0829e51@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FVUEhrz1FFlVljj0Fy6bojk&host=tty34.003330333.xyz&fp=chrome&sni=tty34.003330333.xyz#🇺🇸 United States | HostPapa 3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh30v5.carwashipdir.shop&alpn=h2#🇺🇸 United States | WorkTitans B.V. 1
