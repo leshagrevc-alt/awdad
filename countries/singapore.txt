@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 02:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 03:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@162.159.36.5:443?encryption=none&type=ws&security=tls&path=%2F&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&sni=lively-brook-c471.nedena3319.workers.dev#🇸🇬 Singapore | The Constant Company 1

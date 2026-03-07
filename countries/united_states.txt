@@ -1,8 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 02:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 03:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.87.37:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 1
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 2
-vless://8d860fb3-f209-47bf-b4a2-951baeadedce@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net#🇺🇸 United States | HostPapa 1
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.138.153:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://c978c337-fd96-1b58-9758-dce2fc3ae278@109.120.189.25:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#🇺🇸 United States | Scalaxy B.V. 1
+vless://8d860fb3-f209-47bf-b4a2-951baeadedce@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
