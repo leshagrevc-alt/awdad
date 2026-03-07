@@ -1,9 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 12:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 13:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 1
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.138.153:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.150.170:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bbbffvg.0oh.ccwu.cc&sni=bbbffvg.0oh.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://8d860fb3-f209-47bf-b4a2-951baeadedce@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
+vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
+vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.145.254:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh30v5.carwashipdir.shop&alpn=h2#🇺🇸 United States | WorkTitans B.V. 1
