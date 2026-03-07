@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 03:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 03:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@193.142.59.97:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u710297ua16es725.ccgfw.top&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇬🇧 United Kingdom | Hostshield LTD 1
-vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s726.ccgfw.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u710297u5534s726.ccgfw.top&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=s726.ccgfw.top#🇬🇧 United Kingdom | Hostshield LTD 2
+vless://7d7d00cb-53a3-4cb4-bef7-3b2d431b1107@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiRlpGZjNZYno0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=telegram.proxie1-tel.workers.dev&sni=telegram.proxie1-tel.workers.dev#🇬🇧 United Kingdom | Aeza International LTD 1
