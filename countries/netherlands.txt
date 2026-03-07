@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 21:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 21:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://99e2fd5e-f5b2-47f9-be5a-eb38daa4e670@212.233.98.38:5443?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=wXpc4aufCrdxZ2_aoh6Zt0aLWLioMN2Zi0jtKdonMW4&sid=b027c9244d2a#🇳🇱 Netherlands | Fast GEO Hosting S.R.L. 1
 vless://42191252-2937-404a-a982-04519c71e26a@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
