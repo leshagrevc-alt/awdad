@@ -1,6 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c9a92653-69ef-4291-b2c9-fd0ed9e6d4ea@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@104.17.148.22:2083?encryption=none&type=ws&security=tls&path=%2Fscaas8qmzxhqiqch%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560&host=aged-sun-9128.danicng13.workers.dev&fp=randomized&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp%2F1.1#🇸🇪 Sweden | Cloudflare, 1
+vless://77777777-6663-4ef2-b26b-ed2d70642678@104.18.42.163:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=xsfvxv55x1.fx03.ccwu.cc&sni=xsfvxv55x1.fx03.ccwu.cc#🇸🇪 Sweden | Cloudflare, 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | M247 Europe SRL 1

@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://aadcbd09-b0d0-42a5-b103-f18ae322bc9f@95.163.210.229:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0x0HiUs6KbweEd9ndPG1arMr1I-TbtB1Ok-D_hdlbWc&sid=bf3c4c10ca44241a#🇯🇵 Japan | GCS SER 1

@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ttt6.006660666.xyz&path=%2FOkVaxoknnGWI7hLRpJ1#🇨🇦 Canada | HostPapa 1
