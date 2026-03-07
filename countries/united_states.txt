@@ -1,8 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 14:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 14:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.60.124:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 2
-vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@165.140.166.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇺🇸 United States | Rackvolt Cloud Solutio... 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
+vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.153.222:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=yhj.iran2026.indevs.in&sni=yhj.iran2026.indevs.in#🇺🇸 United States | HostPapa 2
+vless://8d860fb3-f209-47bf-b4a2-951baeadedce@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
