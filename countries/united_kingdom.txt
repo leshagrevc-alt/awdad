@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 00:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 01:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s736.ccgfw.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u710297u833ds736.ccgfw.top&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=s736.ccgfw.top#🇬🇧 United Kingdom | Hostshield LTD 1
+vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&host=pedaratvpn.ar-ahmadiyan86.workers.dev&fp=chrome&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev#🇬🇧 United Kingdom | Amazon Technologies 1

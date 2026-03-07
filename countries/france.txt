@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 00:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 01:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@81.19.137.83:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#🇫🇷 France | Aeza International LTD 1
