@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 11:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://8426cc95-ec2c-47e4-8c7c-3a41efede379@51.250.14.76:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp&headerType=none#🇱🇻 Latvia | Uxhost LTD 1

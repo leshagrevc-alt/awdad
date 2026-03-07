@@ -1,7 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 11:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 1
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=yyhjk.003330333.xyz&fp=chrome&sni=yyhjk.003330333.xyz#🇺🇸 United States | HostPapa 2
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=hju8.003330333.xyz&sni=hju8.003330333.xyz#🇺🇸 United States | HostPapa 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 2
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇺🇸 United States | Massivegrid LTD 1
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
+vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
