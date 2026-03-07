@@ -1,9 +1,12 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 01:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.68.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
-vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@195.3.223.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=pl.scroogethebest.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#🇵🇱 Poland | MEVSPACE sp. z o.o. 4
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 4
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | MEVSPACE sp. z o.o. 5
+vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 1
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 2

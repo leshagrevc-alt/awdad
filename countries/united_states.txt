@@ -1,8 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 01:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
 vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.150.170:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bbbffvg.0oh.ccwu.cc&sni=bbbffvg.0oh.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://a5ca6aa5-0354-1b58-b094-741b1dfe4daa@109.120.189.25:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#🇺🇸 United States | Scalaxy B.V. 1
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.162.7:80?encryption=none&type=ws&security=none&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=nnhhhjuuu.1xa.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&host=pedaratvpn.ar-ahmadiyan86.workers.dev&fp=chrome&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev#🇺🇸 United States | Multacom 1
