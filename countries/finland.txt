@@ -1,10 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 00:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 00:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://8e4ef4d6-cacb-419d-9025-1c6ded0fe350@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 1
-vless://2030e951-73d1-46a6-83ec-cc02e6b6a5d9@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 2
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.48.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 1
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.48.209:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 2
-vless://277244e0-e042-462a-9f30-33f3d69d8c8a@95.163.210.138:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=b0c58c398abb6842#🇫🇮 Finland | M247 Europe SRL 1
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 1
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 2
+vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 3

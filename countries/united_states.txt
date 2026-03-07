@@ -1,13 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 00:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 00:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=hju8.003330333.xyz&fp=chrome&sni=hju8.003330333.xyz#🇺🇸 United States | HostPapa 1
-vless://9f9b2ba3-77c1-400f-9b72-76b9b0829e51@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FVUEhrz1FFlVljj0Fy6bojk&host=tty34.003330333.xyz&fp=chrome&sni=tty34.003330333.xyz#🇺🇸 United States | HostPapa 2
-vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 3
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.56.168:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=yhj.iran2026.indevs.in&sni=yhj.iran2026.indevs.in#🇺🇸 United States | HostPapa 4
-trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@njk.003330333.xyz:443?security=tls&sni=njk.003330333.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=njk.003330333.xyz&path=%2FpdfbAl1zmvpSIH8OSONBms#🇺🇸 United States | HostPapa 5
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net#🇺🇸 United States | HostPapa 1
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 2
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
-vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
+vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
