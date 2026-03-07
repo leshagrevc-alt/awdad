@@ -1,11 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 01:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 01:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://9f9b2ba3-77c1-400f-9b72-76b9b0829e51@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FVUEhrz1FFlVljj0Fy6bojk&host=tty34.003330333.xyz&fp=chrome&sni=tty34.003330333.xyz#🇺🇸 United States | HostPapa 1
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 2
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=yyhjk.003330333.xyz&fp=chrome&sni=yyhjk.003330333.xyz#🇺🇸 United States | HostPapa 3
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@104.21.56.168:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=yhj.iran2026.indevs.in&sni=yhj.iran2026.indevs.in#🇺🇸 United States | HostPapa 4
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.150.170:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bbbffvg.0oh.ccwu.cc&sni=bbbffvg.0oh.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 1
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=gy.003330333.xyz&fp=chrome&sni=gy.003330333.xyz#🇺🇸 United States | HostPapa 2
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbbnhj.taipei102.indevs.in&fp=chrome&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 1
 vless://c978c337-fd96-1b58-9758-dce2fc3ae278@109.120.189.25:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#🇺🇸 United States | Scalaxy B.V. 1

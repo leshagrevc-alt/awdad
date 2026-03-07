@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 01:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 01:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.217.125:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=yrk4AHZnKuogDSjbWy4tzWP4AuuNKP3AXHwVTuXN4T8&sid=6ba85179e30d4fc2#🇸🇬 Singapore | Ultahost, 1
