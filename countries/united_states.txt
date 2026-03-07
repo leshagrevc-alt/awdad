@@ -1,11 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 06:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.60.124:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.21.72:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=gy.003330333.xyz&fp=chrome&sni=gy.003330333.xyz#🇺🇸 United States | HostPapa 2
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.138.153:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://53576318-dafd-4428-9ec3-d635a6521631@165.140.166.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇺🇸 United States | Rackvolt Cloud Solutio... 1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net#🇺🇸 United States | Shenzhen Tencent Compu... 1
-vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.150.170:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bbbffvg.0oh.ccwu.cc&sni=bbbffvg.0oh.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://8d860fb3-f209-47bf-b4a2-951baeadedce@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
+vless://3b5eefdc-1141-46dc-bff0-e08b2fe2ea34@84.201.168.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=SW_6K6SCiDhuLbBV980_CFTu_DcdeWHBYSoyilF_L2o&sid=8564&spx=%2F#🇺🇸 United States | WorkTitans B.V. 1
