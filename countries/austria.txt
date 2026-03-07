@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=one-piece.com&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#🇦🇹 Austria | netcup GmbH 1
