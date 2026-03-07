@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=8fbxjhscv17.fx02.ccwu.cc&sni=8fbxjhscv17.fx02.ccwu.cc#🇸🇪 Sweden | Cloudflare, 1
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?allowInsecure=1&encryption=none&host=8fbxjhscv17.fx02.ccwu.cc&path=/&security=tls&sni=8fbxjhscv17.fx02.ccwu.cc&type=ws#🇸🇪 Sweden | Cloudflare, 1

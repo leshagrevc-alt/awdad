@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.250.191.18:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇨🇦 Canada | Choopa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.193.4.53:443?encryption=none&type=ws&security=tls&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇨🇦 Canada | Centrilogic 1
