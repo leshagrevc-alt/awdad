@@ -1,11 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 04:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 04:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?encryption=none&type=ws&security=tls&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇫🇮 Finland | Cloudflare, 1
-vless://8e4ef4d6-cacb-419d-9025-1c6ded0fe350@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 1
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?encryption=none&type=ws&security=tls&path=ws&host=square-sea-36d2.sendconfig.workers.dev&fp=chrome&sni=square-sea-36d2.sendconfig.workers.dev#🇫🇮 Finland | Cloudflare, 1
+vless://3d936f6f-b51f-4ca2-a33f-7fa8d4eed6fa@51.250.8.26:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 1
 vless://d844484d-9ffc-404e-b3ea-a91dd1cb9bfd@51.250.8.26:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 2
-vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 1
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=my-rebar.shop&fp=&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&sid=#🇫🇮 Finland | H2nexus LTD 2
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 3
+vless://c978c337-fd96-0bb8-9758-dce2fc3ae278@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 1
+vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 2
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?encryption=none&type=ws&security=tls&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇫🇮 Finland | Senko Digital 1

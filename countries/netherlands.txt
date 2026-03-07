@@ -1,16 +1,17 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 04:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 04:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://b03f2cea-5f12-4d87-83e1-9db65a187dbf@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
-vless://fbd82752-3ba4-4ac5-9cd6-6063e3f6117f@51.250.6.105:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 2
-vless://fdced7f5-6ca2-4f14-8d6b-36ebe576486c@51.250.6.105:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 3
-vless://d08f55e6-0902-4455-b09e-3747a272fc9e@51.250.6.105:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 4
-vless://40df407d-ea39-49aa-9d91-568d32cba5e5@51.250.64.147:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 5
-vless://fed4cc8f-7db8-4fff-88db-f555ba258437@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 1
-vless://6dc4a7f8-7272-46e4-b9b1-c2552317aaba@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 2
-vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
-vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&spx=%2F#🇳🇱 Netherlands | Liam Kremer 2
-vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=%2F&type=tcp&headerType=none#🇳🇱 Netherlands | Liam Kremer 3
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.38.47:2052?encryption=none&type=ws&security=none&path=%2F&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK#🇳🇱 Netherlands | WorkTitans B.V. 1
+vless://b2bcee84-c786-489e-929a-bf72805f95d9@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
+vless://91a9e995-3a70-46c5-8ead-8dd270f93a39@51.250.3.29:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 2
+vless://f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 3
+vless://8c7bd8cf-bf5f-41b6-9f7e-6c5fdcc44754@51.250.3.29:7445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F&type=tcp&headerType=none#🇳🇱 Netherlands | "HOSTOFF CSL" 4
+vless://fad6c9c0-d0b9-4e77-82e0-552aab892ae9@51.250.86.241:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 5
+vless://0618d5e8-df83-4660-a350-cc710404ebcb@51.250.64.147:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 6
+vless://317fb492-1bf6-47c4-9cc1-4ca352adf084@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 7
+vless://a9b40037-6c25-443e-80ce-95627eb6e5a7@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 1
+vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
+vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.68.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=%2F&type=tcp&headerType=none#🇳🇱 Netherlands | Liam Kremer 2
+vless://ed6f9bc8-e90e-433c-96de-d2fcc1d92a33@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=%2F#🇳🇱 Netherlands | Liam Kremer 3
+vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219&spx=%2F#🇳🇱 Netherlands | Liam Kremer 4
