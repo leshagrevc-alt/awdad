@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 22:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 22:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6e40a511-c677-4c08-9a96-0e9e414456b2@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1

@@ -1,9 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 22:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 22:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.56.212:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇺🇸 United States | Massivegrid LTD 1
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.155.243:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mkii.1x4.indevs.in#🇺🇸 United States | Massivegrid LTD 2
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.136.63:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
+vless://d3ba4fb3-6acc-4a37-b6c1-0bb9d2699b97@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
