@@ -1,12 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 15:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 16:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=ujk.003330333.xyz&fp=chrome&sni=ujk.003330333.xyz#🇺🇸 United States | HostPapa 1
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?encryption=none&type=ws&security=tls&path=%2FF24D1rlC85bVBOSONBms&host=yyhjk.003330333.xyz&fp=chrome&sni=yyhjk.003330333.xyz#🇺🇸 United States | HostPapa 2
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&fp=chrome&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 3
-vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@172.67.140.119:443?encryption=none&type=ws&security=tls&path=%2F9NojP751adPiN9LMya&host=ui.huangshang.indevs.in&sni=ui.huangshang.indevs.in#🇺🇸 United States | HostPapa 4
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=yyynm.2nn.ccwu.cc&sni=yyynm.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.26.122:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmju.1jj.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mmhhj.2nn.ccwu.cc&fp=chrome&sni=mmhhj.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.18.185.26:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmj.1x0.indevs.in&sni=nmj.1x0.indevs.in#🇺🇸 United States | Massivegrid LTD 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=yyynm.2nn.ccwu.cc&sni=yyynm.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nnmkl.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bfbg.2nn.ccwu.cc&sni=bfbg.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 4

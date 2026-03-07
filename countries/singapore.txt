@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 15:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 16:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://26524cce-d514-4014-a426-365fb266a14d@152.53.117.18:2010?encryption=none&type=ws&security=tls&path=%2Fdanfeng%3Fed%3D2560&host=bt5hpm5jf6.chinam.eu.org&fp=random&sni=bt5hpm5jf6.chinam.eu.org#🇸🇬 Singapore | CDS Global Cloud Co., 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.169.13.12:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#🇸🇬 Singapore | OVH SAS 2
