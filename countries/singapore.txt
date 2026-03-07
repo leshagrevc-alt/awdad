@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 07.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 07.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=long-forest-ac72.salari1382m.workers.dev#🇸🇬 Singapore | Oracle 1
