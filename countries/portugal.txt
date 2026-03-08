@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@172.64.155.209:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=parking-nfchbwa1-v2.parking-1ab.workers.dev#🇵🇹 Portugal | WorkTitans B.V. 1

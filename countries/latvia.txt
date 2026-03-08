@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@la-general.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&type=tcp&headerType=none#🇱🇻 Latvia | WorkTitans B.V. 1
+vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@144.31.129.229:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#🇱🇻 Latvia | H2nexus LTD 1
+vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@94.131.104.92:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇱🇻 Latvia | WorkTitans B.V. 1
