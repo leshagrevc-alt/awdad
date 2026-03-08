@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 19:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 19:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c24f63c7-fa28-43a9-8403-3c66cbf8ca93@45.15.129.24:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=timeweb.cloud&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM#🇦🇲 Armenia | Host Telecom LTD 1
+vless://cbe70d02-1820-43d5-aaaa-6441d0c60890@45.15.129.24:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=timeweb.cloud&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&type=tcp&headerType=none#🇦🇲 Armenia | Host Telecom LTD 2
