@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 06:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://788b5907-f274-4aac-8f56-6ead96ecdd1e@45.15.170.239:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🌍 Albania | WorkTitans B.V. 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:20443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=m5JYM9JhDND2wtSGcTYyediFMXoyJia9xfUy-HA6fhM&sid=69cba355948aa01c&spx=%2F&type=tcp&headerType=none#🌍 Albania | AlbHost SH.P.K 1

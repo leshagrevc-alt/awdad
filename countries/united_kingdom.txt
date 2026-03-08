@@ -1,6 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 06:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://bc941b47-4346-411a-bef8-b327eca6f6f4@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.rutube.ru&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&type=tcp&headerType=none#🇬🇧 United Kingdom | Clouvider 1
+vless://bc941b47-4346-411a-bef8-b327eca6f6f4@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&type=tcp&headerType=none#🇬🇧 United Kingdom | Clouvider 2
+vless://9ee1f470-2785-411d-aac3-5eb860d926fc@146.185.209.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#🇬🇧 United Kingdom | VK 1

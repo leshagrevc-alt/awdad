@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 06:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@fr.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.darknet.run&fp=chrome&pbk=J3YIUVka1vOcvmG7tTVLbQrTTxWENj7iNuU84HfsLGE&sid=a1b223d4&spx=%2F&type=tcp&headerType=none#🇫🇷 France | CGI GLOBAL LIMITED 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.167.32:8443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram@wangcai2&security=tls&sni=sni.111000.indevs.in#🇫🇷 France | Cloudflare, 1
+vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇫🇷 France | Aeza International LTD 1
+vless://9ee1f470-2785-411d-aac3-5eb860d926fc@5.188.143.115:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#🇫🇷 France | Alexhost SRL 1
