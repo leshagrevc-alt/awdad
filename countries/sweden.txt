@@ -1,18 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 06:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://1f034338-33a3-40f7-8e82-e4042e8410af@172.67.171.253:443?encryption=none&type=ws&security=tls&path=ws&host=gardconfig12.bnam38637.workers.dev&sni=gardconfig12.bnam38637.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
-vless://53d12182-cbc1-4910-b16d-d0b9abe186c8@vk6a.dostup.lat:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.x5.ru&pbk=XyvxY0XhCEFt6s3LVjsQ1sYxk0nc6R99CKZ_Lv3YkTo&type=tcp&headerType=none#🇸🇪 Sweden | SIA VEESP 1
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@89.208.228.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=yl2tD0m0Ko7jVaFHmjS0YJWtyqSBYWdeJcNHsAncrRM&sid=bdd73c74631a80cf&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@178.154.252.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=KusXgb8rHwJyq0E3MTIhralpeZBAuSyQDphDwhojGgQ&sid=e11822a0958dd1a3&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 2
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@81.200.151.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh1.vk.com&pbk=QUGGcfN7ud7hxdQ11QNyGrxXI2yuB9LiedPsmYjnMD4&sid=3d9bfa9202efd228&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 3
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@51.250.97.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 4
-vless://2ff602ff-d5eb-4fc2-8cd4-4ac56a4976b2@51.250.43.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 5
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@5.188.141.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=io.ozone.ru&pbk=Lm25z5zVvXA8nMzF1wWzYiuM2Xslf5XGz57CVYYrPj8&sid=e8e3d8b37ce9b6b0&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 6
-vless://2ff602ff-d5eb-4fc2-8cd4-4ac56a4976b2@81.200.151.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh1.vk.com&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 7
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:23443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=I97ZYjRohSDb6i5mf88MDhoJcWQBL9KC3xCZf7rwRwc&sid=b4ddf15fe9ea7afa&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@95.163.212.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=TnEAEcjwvEvUhR5qiarHDA73CrqUbvQcqHH29_KIXXI&sid=d1efd8ee429f3628&spx=%2F#🇸🇪 Sweden | XT GLOBAL NETWORKS LTD. 1
-vless://82e91a39-3b33-425c-83e9-12ee0e48c2f3@5.188.141.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=9LKt4Nrd2iws_VIeDSJoqVRxyJM9hQ07couuZC0M61E&sid=c427bb0abdb6d1bc&spx=%2F#🇸🇪 Sweden | XT GLOBAL NETWORKS LTD. 2
+vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Hostup AB 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://2ff602ff-d5eb-4fc2-8cd4-4ac56a4976b2@84.201.140.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 2
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 3
