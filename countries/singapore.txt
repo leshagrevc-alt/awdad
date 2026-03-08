@@ -1,8 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=long-forest-ac72.salari1382m.workers.dev#🇸🇬 Singapore | DigitalOcean, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.133.44.199:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | OVH SAS 1
-vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.219.20:12443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=2YBhJ9VL2ABQkWMqGoqKfJp5MmhhuKYeVX54fTr8miU&sid=6ba85179e30d4fc2#🇸🇬 Singapore | Ultahost, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇸🇬 Singapore | OVH SAS 1

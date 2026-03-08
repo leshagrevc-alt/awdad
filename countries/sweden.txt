@@ -1,8 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?encryption=none&type=ws&security=tls&path=ws&host=square-sea-36d2.sendconfig.workers.dev&fp=chrome&sni=square-sea-36d2.sendconfig.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | SIA VEESP 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | The Constant Company 1
+vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@172.67.216.218:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=stipulations.gelatin.workers.dev&sni=stipulations.gelatin.workers.dev#🇸🇪 Sweden | Cloudflare, 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
+vless://de9ad53a-fc07-1770-b804-b67311b1da76@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇸🇪 Sweden | Play2go International 3
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 4

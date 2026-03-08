@@ -1,6 +1,15 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://54f963d4-ae2a-4736-ba24-977d539ae0f7@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://fe0c2bcf-5f5f-47a3-befe-1515fc117c50@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://867c71a0-a42e-47f0-bdd7-1be4e7ff7ddf@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 2
+vless://4866e9e5-306f-4513-8a46-971c046b5ae1@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 3
+vless://8f56d326-a7ca-4dc5-b377-1354a2054d35@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 4
+vless://d7081294-c223-407e-85c0-a267146dbd78@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 5
+vless://7d4062aa-d963-470d-832e-da15e562813d@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 6
+vless://9809941c-a182-4b3d-b222-51729af4551e@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 7
+vless://f8ed4e93-aec5-4cae-b527-87dc1fd7cbb4@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 8
+vless://f0d6fbab-1edc-43d6-aa99-1fd49b5174d2@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 9
+vless://7757e3dc-c110-474e-aee5-04662dc2c389@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 10
