@@ -1,6 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 09:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 10:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.134.248:2003?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?ed%3D2560&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | OVH SAS 1
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.66.71.149:2053?encryption=none&security=tls&sni=snippet.sh21.eu.org&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇸🇬 Singapore | CDS Global Cloud Co., 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.227.237.209:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#🇸🇬 Singapore | OVH SAS 2
+vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.219.20:12443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=2YBhJ9VL2ABQkWMqGoqKfJp5MmhhuKYeVX54fTr8miU&sid=6ba85179e30d4fc2#🇸🇬 Singapore | Ultahost, 1
