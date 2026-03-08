@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 14:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 14:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://9aa5e15f-513c-4aaa-839a-accd2f1977fa@51.250.83.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI#🇧🇪 Belgium | FDCservers.net 1
 vless://c45a937d-3bb3-4a32-a6f3-72d8f0a19959@176.122.25.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.yandex.ru&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=960ae214db9f1604&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
