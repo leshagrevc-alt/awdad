@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 03:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 03:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
+vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
