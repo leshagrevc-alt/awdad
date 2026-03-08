@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://be224aaf-618c-4a9e-877c-1cee0e32056b@rus.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rus.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&headerType=none#🇺🇦 Ukraine | FOP Samosenok Alexandr... 1

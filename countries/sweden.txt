@@ -1,9 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
-vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 2
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@se.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.scroogethebest.com&fp=random&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Alexhost SRL 3
-vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@78.40.117.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=se.scroogethebest.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#🇸🇪 Sweden | Alexhost SRL 1
+vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&type=ws&security=tls&host=bold-term-4edd.mbigspot.workers.dev&fp=chrome&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2%2Chttp%2F1.1#🇸🇪 Sweden | Cloudflare, 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
