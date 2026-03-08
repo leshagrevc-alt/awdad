@@ -1,14 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 15:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 16:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
-vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 2
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Ffree%2F1.226.227.169%3A50001&host=nuclear.us.kg&sni=nuclear.us.kg#🇸🇪 Sweden | Cloudflare, 3
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
-vless://3e434436-8137-4e04-8ecf-a3b41c62817f@81.200.151.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
-vless://3e434436-8137-4e04-8ecf-a3b41c62817f@84.201.140.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 2
+vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 1
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@141.8.199.126:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇸🇪 Sweden | Alexhost SRL 1
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F&host=azadnet-1ml.pages.dev&sni=azadnet-1ml.pages.dev#🇸🇪 Sweden | Cloudflare, 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1

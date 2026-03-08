@@ -1,8 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 15:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 16:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://012e0390-bb84-4ec2-8f8c-83241878e85e@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
-vless://bf4f7680-be7f-4314-81be-c896c508c78d@51.250.3.29:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw#🇲🇩 Moldova | Global Connectivity So... 2
-vless://8f56d326-a7ca-4dc5-b377-1354a2054d35@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 3
+vless://5520bd57-81d0-45b9-9086-32b88ac328c1@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://8970e3f5-953c-4d4d-b2f2-1e99c215b992@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 2
+vless://7cabea1c-02b6-4759-9099-fe7bf0b26810@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 3
+vless://e2b4af61-7bce-4b30-96ba-66bcd99d5fff@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 4
+vless://bf4f7680-be7f-4314-81be-c896c508c78d@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw#🇲🇩 Moldova | Global Connectivity So... 5
