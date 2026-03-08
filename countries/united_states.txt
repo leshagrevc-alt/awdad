@@ -1,8 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 09:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 09:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.60.124:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
-vless://adad2034-0510-4a4e-8759-77a8244e521a@103.35.189.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.com&pbk=tTh7I2h-Jt7ujutUMZ1JmPdehnOCVc5IaMvfziKOgSY&sid=37fa5b651f84e695#🇺🇸 United States | WorkTitans B.V. 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
+vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.216.168:51561?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=SNbkmPopmPAghMECIKkxvyMVcl7jUfxeRz6OOre3hzo&sid=6ba85179e30d4fc2#🇺🇸 United States | Latitude.sh 1
