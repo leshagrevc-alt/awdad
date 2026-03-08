@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 14:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 15:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:24443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=0MVG9JezLY1idNQ6-dysO85ScB9Beu1NXPN1bx6VJ2k&sid=11a18e8243e1c628&spx=%2F&type=tcp&headerType=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
