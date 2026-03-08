@@ -1,13 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 11:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 11:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:22443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=jMGy882A7gjFWX_CxSqf55y92KPyBCh0hKDPKy6-iy4&sid=3f10b9b66741e036&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://0f44079e-f740-4c28-aac7-7898abdb3252@84.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=random&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🇺🇸 United States | Atlantic.net 1
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@194.164.35.159:2053?encryption=none&security=tls&sni=x1.mwu.de5.net&insecure=0&allowInsecure=0&type=ws&host=x1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo#🇺🇸 United States | Baxet Group 1
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.41.29:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bgn.1dd.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=random&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
 vless://adad2034-0510-4a4e-8759-77a8244e521a@212.233.72.120:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@us2.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us2.darknet.run&fp=chrome&pbk=RfAnlSOQtrQO00pSkJeKyL5oUKKZwQ6aveIRGdllbW4&sid=a1b323d5&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | ZhouyiSat Communications 1
+vless://adad2034-0510-4a4e-8759-77a8244e521a@85.192.34.62:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 2
