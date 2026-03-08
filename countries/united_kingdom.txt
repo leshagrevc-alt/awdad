@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 05:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 05:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://bc941b47-4346-411a-bef8-b327eca6f6f4@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&type=tcp&headerType=none#🇬🇧 United Kingdom | Clouvider 1
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@de.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.jojack.ru&fp=qq&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=79d4a74b9ba1b694&spx=%2F&type=tcp&headerType=none#🇬🇧 United Kingdom | Zhejiang Aiyun Network... 1
