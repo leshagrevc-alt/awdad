@@ -1,7 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 17:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 17:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 2
+vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=0&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=0&sni=afxmsv51.fx02.ccwu.cc#🇸🇪 Sweden | Cloudflare, 1
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 2
+vless://d6bd8ff1-a340-415a-acea-2f902d9c3376@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:23443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=I97ZYjRohSDb6i5mf88MDhoJcWQBL9KC3xCZf7rwRwc&sid=b4ddf15fe9ea7afa&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1
