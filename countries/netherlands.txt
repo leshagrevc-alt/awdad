@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.103:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=yandex.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#🇳🇱 Netherlands | Clouvider 1
 vless://b5c41397-2e5c-4b89-ac79-62409244c9db@144.31.237.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pingless.com&pbk=7ArHociObcDhSUE11ae0zWu566DM_w3NwRh2X8TXMQ0&sid=9d0c2e7b1a546f3a#🇳🇱 Netherlands | Eternity International 1

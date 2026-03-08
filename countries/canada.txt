@@ -1,10 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.159.131.90:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F#🇨🇦 Canada | Choopa 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#🇨🇦 Canada | HostPapa 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.224.25:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | Kamatera, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.244:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | Oracle 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.93:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇨🇦 Canada | Atlantic.net 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇨🇦 Canada | HostPapa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.103.135:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | HostPapa 2
