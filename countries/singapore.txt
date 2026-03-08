@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 20:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 20:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.233.78:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&host=sni.111000.indevs.in#🇸🇬 Singapore | OVH SAS 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.248.75.6:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq#🇸🇬 Singapore | OVH SAS 2
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@89.169.8.105:443?encryption=none&security=tls&sni=snippet.sh21.eu.org&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇸🇬 Singapore | CDS Global Cloud Co., 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.199:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.v6.navy#🇸🇬 Singapore | OVH SAS 1
