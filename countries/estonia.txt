@@ -1,8 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇪🇪 Estonia | OC NETWORKS LIMITED 1
-trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@ee.nn-id.com:443?security=tls&sni=ee.nn-id.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇪🇪 Estonia | OC NETWORKS LIMITED 2
-vless://e85a49c6-c627-4fdc-a6d7-0db59e0000d6@84.252.133.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇪 Estonia | RJ Network OU 1
+trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@ee3.nnmm.me:443?security=tls&sni=ee3.nnmm.me&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇪🇪 Estonia | OC NETWORKS LIMITED 1
+vless://e85a49c6-c627-4fdc-a6d7-0db59e0000d6@84.252.133.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇪 Estonia | RJ Network OU 1

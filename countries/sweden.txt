@@ -1,11 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@se.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.scroogethebest.com&fp=random&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Alexhost SRL 1
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&type=ws&security=tls&path=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
+vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 1
 vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
-vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 2

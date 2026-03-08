@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://866da810-96c9-4866-a009-6fe039516efa@89.208.198.136:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=8j1hhwKPOmNM2s9iNxvgRQc2xUL7q6FJxPQJd7oVTwk&sid=4cb24ada97&spx=%2F#🇱🇹 Lithuania | Cherry Servers 1
-vless://5c0f35c8-e8e8-4fd5-8a27-57230ac3ca64@51.250.18.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=owtENmCVGUgOLX9Q2FeojbLlPhD5docIeU1aCFobgBk&sid=3cfad7d7a6de6782&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 1
+vless://5c0f35c8-e8e8-4fd5-8a27-57230ac3ca64@51.250.18.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=megafon.ru&pbk=owtENmCVGUgOLX9Q2FeojbLlPhD5docIeU1aCFobgBk&sid=3835&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 1
+vless://5c0f35c8-e8e8-4fd5-8a27-57230ac3ca64@51.250.18.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=owtENmCVGUgOLX9Q2FeojbLlPhD5docIeU1aCFobgBk&sid=3cfad7d7a6de6782&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 2
