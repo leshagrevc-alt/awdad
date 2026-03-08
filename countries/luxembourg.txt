@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 18:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://f917d401-aa7a-439b-8e0e-9e4e6b4aaef7@212.233.76.0:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=mxrIVof8Wcsz-kxqopU1Nwwoc_sKFCidyGM04C7aCAY&sid=8eedac65&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 1
-vless://f917d401-aa7a-439b-8e0e-9e4e6b4aaef7@212.233.76.0:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=event.yandex.ru&pbk=mxrIVof8Wcsz-kxqopU1Nwwoc_sKFCidyGM04C7aCAY&sid=2eecbc6952abfe17&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 2
+vless://f917d401-aa7a-439b-8e0e-9e4e6b4aaef7@212.233.76.0:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=mxrIVof8Wcsz-kxqopU1Nwwoc_sKFCidyGM04C7aCAY&sid=2a2486ea&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 1
