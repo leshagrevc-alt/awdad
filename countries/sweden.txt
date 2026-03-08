@@ -1,9 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 16:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 16:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 1
-vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@141.8.199.126:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇸🇪 Sweden | Alexhost SRL 1
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F&host=azadnet-1ml.pages.dev&sni=azadnet-1ml.pages.dev#🇸🇪 Sweden | Cloudflare, 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 1
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
