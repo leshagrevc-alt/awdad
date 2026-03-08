@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 20:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 21:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://b09cbddb-c5a7-40d4-86d0-0c2d113ca357@noda2.zapret-tg.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=noda2.zapret-tg.ru&fp=chrome&pbk=5Rc4z-sQ8c_YXqoTLktZfkgE8FaRy6UjFKwLASIVoAg&sid=3fbc4aec3243f6b5&spx=%2F&type=tcp&headerType=none#🇪🇪 Estonia | OC NETWORKS LIMITED 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F#🇪🇪 Estonia | OC NETWORKS LIMITED 2
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@est.top.subtrust.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af&type=tcp&headerType=none#🇪🇪 Estonia | Qwins LTD 1

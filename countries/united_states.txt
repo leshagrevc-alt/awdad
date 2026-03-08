@@ -1,12 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 20:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 21:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:22443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=jMGy882A7gjFWX_CxSqf55y92KPyBCh0hKDPKy6-iy4&sid=3f10b9b66741e036&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.164.139:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=jjk.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=hhynnmki.www890604.dpdns.org&fp=chrome&sni=hhynnmki.www890604.dpdns.org&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@172.67.158.133:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=ddvfgt.0ob.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://9b354a64-81f6-4a15-a127-337cd17e25ba@172.67.142.88:80?encryption=none&type=ws&security=none&path=%2FIBb38gsTRjFOzklVEUuTu7GKK&host=nghnju.2yo.ccwu.cc#🇺🇸 United States | Massivegrid LTD 4
-vless://de9ad53a-fc07-1b58-b804-b67311b1da76@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇺🇸 United States | Scalaxy B.V. 1
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbnh.taipei102.indevs.in&fp=chrome&sni=vvvbnh.taipei102.indevs.in&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.129.96:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=c6y.0c0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.9.173:443?encryption=none&type=ws&security=tls&path=%2FIq3945ZsqJBAQ5Ah&host=dcvgtyu.0ww.ccwu.cc&fp=chrome&sni=dcvgtyu.0ww.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.3.129:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=scvfg.1gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 4
+vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 1
