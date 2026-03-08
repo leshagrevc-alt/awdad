@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 10:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@lv2.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.darknet.run&fp=chrome&pbk=s8D-auMHfbyqGcl0aZztxkVndBcx3cYhp1dCesjy3TA&sid=a1b323d4&spx=%2F&type=tcp&headerType=none#🇱🇻 Latvia | Green Floid 1
