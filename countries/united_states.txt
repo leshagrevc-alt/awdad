@@ -1,8 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 21:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@212.233.74.189:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234#🇺🇸 United States | Maybe 1
-vless://de9ad53a-fc07-1b58-b804-b67311b1da76@109.120.189.8:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇺🇸 United States | Scalaxy B.V. 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&fp=chrome&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=huu89.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=vb-p.0c0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://ff238176-3cc9-4b97-a295-5678919d5cdb@103.35.189.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=tTh7I2h-Jt7ujutUMZ1JmPdehnOCVc5IaMvfziKOgSY&sid=37fa5b651f84e695#🇺🇸 United States | WorkTitans B.V. 1

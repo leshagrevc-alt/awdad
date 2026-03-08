@@ -1,7 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 21:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
+vless://ce89c63c-b30f-467e-968a-cd0292ac9a6b@109.120.190.107:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun2-16.userapi.com&pbk=5Tz44GqhEgM6Q-kOX0WQ6voGySL5sOEeABSUsFDY8Uw&sid=21c7fb5ed34c260c#🇪🇪 Estonia | EGIHosting 1
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇪🇪 Estonia | OC NETWORKS LIMITED 1
-vless://e85a49c6-c627-4fdc-a6d7-0db59e0000d6@84.252.133.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sun6-22.userapi.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇪 Estonia | RJ Network OU 1
+vless://e85a49c6-c627-4fdc-a6d7-0db59e0000d6@84.252.133.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🇪🇪 Estonia | RJ Network OU 1

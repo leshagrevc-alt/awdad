@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 21:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@144.31.213.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=uk2.darknet.run&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&sid=a1b223d4&spx=%2F#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1

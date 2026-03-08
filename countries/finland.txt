@@ -1,9 +1,12 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 21:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 22:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.209.148:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 1
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 2
-vless://943d76a9-e331-4429-b38c-4b10876e4561@51.250.45.245:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 3
-vless://2f1f97e6-3cd1-4f19-b3a0-bddf92b02cad@95.163.210.138:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=b0c58c398abb6842#🇫🇮 Finland | M247 Europe SRL 1
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@64.188.80.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.intel.com&pbk=KmfIliVemCZStxasoP-abL4iA4DyLKzexhpfFaXzUko&sid=fb#🇫🇮 Finland | 1Cent Host 1
+vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.210.30:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 1
+vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.209.148:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 2
+vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.209.148:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇫🇮 Finland | Cloudflare, 1
+vless://2f1f97e6-3cd1-4f19-b3a0-bddf92b02cad@95.163.210.138:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=b0c58c398abb6842#🇫🇮 Finland | M247 Europe SRL 1
+vless://7ed30100-fd44-4c1f-8ae8-a59b29330c07@95.163.210.138:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#🇫🇮 Finland | M247 Europe SRL 2
