@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://3c5758aa-9573-45b5-a167-a817df8fb94e@95.163.213.249:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=mail.ru&pbk=cerporZqEu980lkmlIcysSmo9lHFa7xgtU19aT-QFDY&sid=9eb8c9d36c7669&spx=%2F#🇨🇭 Switzerland | WorkTitans B.V. 1
+vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@37.139.33.79:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234#🇨🇭 Switzerland | Dedik Services 1
