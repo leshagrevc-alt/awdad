@@ -1,8 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 10:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 10:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?encryption=none&type=ws&security=tls&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?encryption=none&type=ws&security=tls&path=ws&host=square-sea-36d2.sendconfig.workers.dev&fp=chrome&sni=square-sea-36d2.sendconfig.workers.dev#🇸🇪 Sweden | Cloudflare, 2
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:11443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esa-res.online.sberbank.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
