@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 19:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 20:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.233.78:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&host=sni.111000.indevs.in#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.248.75.6:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq#🇸🇬 Singapore | OVH SAS 2
