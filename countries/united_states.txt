@@ -1,11 +1,13 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 17:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 17:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.201.147.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.14:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.164.139:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=jjk.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@172.67.158.133:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=ddvfgt.0ob.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.60.175:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=bbbn66y.1sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.209.148:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇺🇸 United States | WorkTitans B.V. 1
+vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.216.168:51561?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=SNbkmPopmPAghMECIKkxvyMVcl7jUfxeRz6OOre3hzo&sid=6ba85179e30d4fc2#🇺🇸 United States | Latitude.sh 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.1.22:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.198.237:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=bbbn66y.1sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.88.226:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=nnnmjk.www890604.dpdns.org&sni=nnnmjk.www890604.dpdns.org#🇺🇸 United States | Massivegrid LTD 3
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@172.67.158.133:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=ddvfgt.0ob.ccwu.cc#🇺🇸 United States | Massivegrid LTD 4
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=gggbnh7.www890604.dpdns.org&fp=chrome&sni=gggbnh7.www890604.dpdns.org&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 5
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.1.213:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=rggbnhju7.0gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 6
+vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@212.233.74.189:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234#🇺🇸 United States | Maybe 1

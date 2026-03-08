@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 17:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 17:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://d6bd8ff1-a340-415a-acea-2f902d9c3376@89.208.198.136:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=8j1hhwKPOmNM2s9iNxvgRQc2xUL7q6FJxPQJd7oVTwk&sid=4cb24ada97&spx=%2F#🇱🇹 Lithuania | Cherry Servers 1
