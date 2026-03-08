@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 09:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://9ee1f470-2785-411d-aac3-5eb860d926fc@146.185.208.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#🇬🇧 United Kingdom | VK 1
+vless://7d7d00cb-53a3-4cb4-bef7-3b2d431b1107@172.64.155.209:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiRlpGZjNZYno0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=telegram.proxie1-tel.workers.dev&sni=telegram.proxie1-tel.workers.dev#🇬🇧 United Kingdom | Aeza International LTD 1

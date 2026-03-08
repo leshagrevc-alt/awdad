@@ -1,7 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 09:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@tw.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex.ru&fp=random&pbk=QtrKt-JMH3v1yT-zx92ouGQmN1BLL5TuwYJY9SxLszw&sid=ce038dfd1c5b75e3&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@81.200.150.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=6SR0YC92Cx8gJBicP7rIN-j935iRk1DcvCkXqSpLi0I&sid=e8625fbd536a2870&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.222.113:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@194.164.35.159:2053?encryption=none&security=tls&sni=x1.mwu.de5.net&insecure=0&allowInsecure=0&type=ws&host=x1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo#🇺🇸 United States | DMIT Cloud Services 1
+vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@212.233.74.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=safari&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234&type=tcp&headerType=none#🇺🇸 United States | Maybe 1
