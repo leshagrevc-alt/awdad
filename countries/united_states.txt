@@ -1,11 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 18:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 18:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@81.200.150.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=6SR0YC92Cx8gJBicP7rIN-j935iRk1DcvCkXqSpLi0I&sid=e8625fbd536a2870&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.153.179:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=nnnmjk.www890604.dpdns.org&sni=nnnmjk.www890604.dpdns.org#🇺🇸 United States | Massivegrid LTD 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=huu89.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@212.233.74.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=safari&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234&type=tcp&headerType=none#🇺🇸 United States | Maybe 1
-vless://4052b423-3059-4f2e-9d30-dbdfa33b5c66@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@93.183.126.153:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net#🇺🇸 United States | Atlantic.net 1
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=%2Fproxyip%3Dsjc.o00o.ooo&host=x1.mwu.de5.net&sni=x1.mwu.de5.net#🇺🇸 United States | DMIT Cloud Services 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.3.129:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=scvfg.1gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.164.139:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=jjk.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.130.183:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=scvfg.1gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@usa.top.subtrust.ru:443?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Chac04Nq2MHCQPp5sfph6egLqZul5Dj8JPMUN4iX4U8&sid=b9c2aeacce&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | netcup GmbH 1
