@@ -1,16 +1,12 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 11:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://98164790-5bad-44f6-9b9c-50913f7fb1ec@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 1
-vless://a27aa68d-a282-47bb-a49c-3f2233e38f93@51.250.64.147:8449?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&sni=api-maps.yandex.ru&spx=/#🇫🇮 Finland | Global Connectivity So... 2
-vless://b51175e8-1a0c-4c32-99d7-3db1b50d2a7c@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 3
-vless://f4359408-abdb-4963-8c2c-a14bcfd00331@51.250.6.105:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 4
-vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 1
-vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@146.185.240.139:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 2
-vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 3
-vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 4
-vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.189.8:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 5
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@185.86.146.31:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234&type=tcp&headerType=none#🇫🇮 Finland | Hetzner Online GmbH 1
-vless://2f1f97e6-3cd1-4f19-b3a0-bddf92b02cad@95.163.210.138:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=b0c58c398abb6842#🇫🇮 Finland | M247 Europe SRL 1
+vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.209.148:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland | Aeza International LTD 1
+vless://4cfda353-87cd-4877-92bb-b6c5de22e58b@51.250.8.26:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=%2F#🇫🇮 Finland | Global Connectivity So... 1
+vless://c0ab2d09-bb15-0bb8-9e04-d0d57fb50dc6@109.120.191.55:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 1
+vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@109.120.189.8:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 2
+vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@146.185.240.139:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 3
+vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 4
+vless://c0ab2d09-bb15-0bb8-9e04-d0d57fb50dc6@109.120.188.238:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 5

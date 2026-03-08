@@ -1,10 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 11:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@81.200.150.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api.yandex.ru&pbk=QtrKt-JMH3v1yT-zx92ouGQmN1BLL5TuwYJY9SxLszw&sid=ce038dfd1c5b75e3&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.215.61:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@212.233.74.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=safari&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234&type=tcp&headerType=none#🇺🇸 United States | Maybe 1
-vless://4052b423-3059-4f2e-9d30-dbdfa33b5c66@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
-vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.160.57:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇺🇸 United States | Atlantic.net 1
+vless://adad2034-0510-4a4e-8759-77a8244e521a@most-us.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&type=tcp&headerType=none#🇺🇸 United States | WorkTitans B.V. 1
+vless://adad2034-0510-4a4e-8759-77a8244e521a@85.192.34.62:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 2

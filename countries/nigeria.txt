@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 11:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://adad2034-0510-4a4e-8759-77a8244e521a@87.239.105.7:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=MfrRX3S6_1wTSHlMTfwPq8OzRuJuLTHXD0tXKnkL6Rw&sid=48ec10761480dfe4#🌍 Nigeria | Melbikomas UAB 1
