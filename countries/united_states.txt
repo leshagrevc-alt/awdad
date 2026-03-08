@@ -1,9 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 04:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 05:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@tw.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=random&pbk=FRQNVx5M9doUxGobDzrjXNd5sD4sGVEdJfm_fC-zKiI&sid=49905f77f1aac347&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇺🇸 United States | UAB Cherry Servers 1
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 2
-vless://adad2034-0510-4a4e-8759-77a8244e521a@most-us.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&type=tcp&headerType=none#🇺🇸 United States | WorkTitans B.V. 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:22443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=jMGy882A7gjFWX_CxSqf55y92KPyBCh0hKDPKy6-iy4&sid=3f10b9b66741e036&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#🇺🇸 United States | Cloudflare, 1
+vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.60.124:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1

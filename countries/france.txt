@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 04:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 05:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.120.129:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🇫🇷 France | F5 Networks SARL 1
+vless://7bd7c473-64c9-4de6-8a4e-2886f3730551@146.185.242.133:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=random&pbk=mekDIeIq56_ReLtNVCq80_WqYeciq6iPD6TAeP3YFCA&sid=1061ef00&spx=%2F&type=tcp&headerType=none#🇫🇷 France | UniversCloud 1
