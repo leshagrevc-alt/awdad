@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://adad2034-0510-4a4e-8759-77a8244e521a@5-gaming.harknmav.fun:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a&type=tcp&headerType=none#🇫🇷 France | Alexhost SRL 1

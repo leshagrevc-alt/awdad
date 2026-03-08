@@ -1,8 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6fac5d5a-e864-4870-899a-7e60da9c276c@79.137.174.106:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#🇭🇺 Hungary | Datacamp 1
-vless://6fac5d5a-e864-4870-899a-7e60da9c276c@79.137.174.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 2
-vless://7fdcc147-77c2-4879-b48c-2ec9389895a0@79.137.174.106:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 3
+vless://8cab09d1-d50d-4339-9eeb-4af82cbc5724@79.137.174.106:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺 Hungary | Datacamp 1
+vless://7fdcc147-77c2-4879-b48c-2ec9389895a0@79.137.174.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#🇭🇺 Hungary | Datacamp 2
+vless://0990032a-1d2d-4af5-981d-8ded9b39cf19@217.13.105.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=contract.gosuslugi.ru&pbk=QuRNn_QNDldKyGhJ6zKZ2OYRItFsw3pn0_39m-1uHis&sid=2b4de521b36b1111&type=tcp&headerType=none#🇭🇺 Hungary | Rackhost Zrt. 1

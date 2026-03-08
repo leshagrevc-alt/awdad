@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://bc941b47-4346-411a-bef8-b327eca6f6f4@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.rutube.ru&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&type=tcp&headerType=none#🇬🇧 United Kingdom | Clouvider 1
+vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇬🇧 United Kingdom | Aeza International LTD 1
+vless://bc941b47-4346-411a-bef8-b327eca6f6f4@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58&type=tcp&headerType=none#🇬🇧 United Kingdom | Clouvider 1

@@ -1,9 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://f2083aa4-f27d-43da-81cf-8bab31730400@104.21.80.17:80?encryption=none&type=ws&security=none&host=germany.vipserver14.workers.dev#🇸🇪 Sweden | Aeza International LTD 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇸🇪 Sweden | Cloudflare, 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
-vless://de9ad53a-fc07-1770-b804-b67311b1da76@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇸🇪 Sweden | Play2go International 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:23443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=I97ZYjRohSDb6i5mf88MDhoJcWQBL9KC3xCZf7rwRwc&sid=b4ddf15fe9ea7afa&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1

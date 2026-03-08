@@ -1,7 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://70678df1-58be-4404-9187-38da52b1c73a@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
-vless://9b9d5b4b-8469-4a70-8788-726ae44145d1@84.201.136.67:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=M4DkYywFvRzittxKLeRu-HhkLR3Lhz6rb-iSrap-cWE&sid=4791f0562c&spx=%2F#🇺🇸 United States | WorkTitans B.V. 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=/?ed=2560&Telegram🇨🇳 @app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=yyynm.2nn.ccwu.cc&sni=yyynm.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://4052b423-3059-4f2e-9d30-dbdfa33b5c66@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇺🇸 United States | UAB Cherry Servers 1
