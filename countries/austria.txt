@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 14:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 14:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://0f44079e-f740-4c28-aac7-7898abdb3252@152.53.47.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=austria.denditop.site&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&spx=%2F#🇦🇹 Austria | netcup GmbH 1
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@152.53.18.126:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=HPZgMgE84lwWqVlbLyyGXRMHPG7BxS1TFkbNsWz2nk8&sid=d46fa6&spx=%2F#🇦🇹 Austria | ANX 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=austria.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 1
