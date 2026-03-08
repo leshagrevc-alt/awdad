@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 14:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 14:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇬🇧 United Kingdom | JSC IOT 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@uk2.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk2.darknet.run&fp=chrome&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&sid=a1b223d4&spx=%2F&type=tcp&headerType=none#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
+vless://53576318-dafd-4428-9ec3-d635a6521631@212.46.33.38:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇬🇧 United Kingdom | JM REED LTD 1
