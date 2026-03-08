@@ -1,11 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.159.131.90:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=sni.111000.v6.navy&sni=sni.111000.v6.navy#🇨🇦 Canada | Centrilogic 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.152:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in#🇨🇦 Canada | HostPapa 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40app_bedal&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#🇨🇦 Canada | Kamatera, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | Kamatera, 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.37.70.98:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#🇨🇦 Canada | Oracle 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | Centrilogic 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%D1%97%D1%97%40WangCai2%3D#🇨🇦 Canada | Choopa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.207:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&sni=sni.111000.indevs.in#🇨🇦 Canada | DigitalOcean, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.204.227.171:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🇨🇦 Canada | DigitalOcean, 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.248.207.37:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2#🇨🇦 Canada | Kamatera, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.82.161.175:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in#🇨🇦 Canada | OVH SAS 1
