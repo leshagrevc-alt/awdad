@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 06:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇫🇷 France | Aeza International LTD 1
-vless://9ee1f470-2785-411d-aac3-5eb860d926fc@5.188.143.115:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#🇫🇷 France | Alexhost SRL 1
+vless://adad2034-0510-4a4e-8759-77a8244e521a@5-gaming.harknmav.fun:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a&type=tcp&headerType=none#🇫🇷 France | Alexhost SRL 1
