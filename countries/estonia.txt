@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 16:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 17:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@95.85.224.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#🇪🇪 Estonia | centhost 1
-vless://b09cbddb-c5a7-40d4-86d0-0c2d113ca357@64.188.82.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=noda2.zapret-tg.ru&pbk=5Rc4z-sQ8c_YXqoTLktZfkgE8FaRy6UjFKwLASIVoAg&sid=3fbc4aec3243f6b5&spx=%2F#🇪🇪 Estonia | OC NETWORKS LIMITED 1
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@144.31.170.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#🇪🇪 Estonia | OC NETWORKS LIMITED 1

@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 16:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 17:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://adad2034-0510-4a4e-8759-77a8244e521a@85.192.34.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=g6sT2b5vXWhCZx2e5xpbi8fyolCh81SdKA-4KLWvaAU&sid=2a752b0d4d15e0f9#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
