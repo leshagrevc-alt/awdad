@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 13:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 13:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me/v2Line#🇸🇬 Singapore | OVH SAS 1
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@172.67.150.247:443?encryption=none&type=ws&security=tls&host=myserviran.serviran.workers.dev&sni=myserviran.serviran.workers.dev#🇸🇬 Singapore | Eons Data Communications 1
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=myserviran.serviran.workers.dev&sni=myserviran.serviran.workers.dev#🇸🇬 Singapore | LINODE 1

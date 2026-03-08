@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 13:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 13:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://5c0f35c8-e8e8-4fd5-8a27-57230ac3ca64@51.250.18.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=event.yandex.ru&pbk=owtENmCVGUgOLX9Q2FeojbLlPhD5docIeU1aCFobgBk&sid=e0&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 1
