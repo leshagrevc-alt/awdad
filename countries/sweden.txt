@@ -1,9 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 09:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 09:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 2
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Play2go International 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
