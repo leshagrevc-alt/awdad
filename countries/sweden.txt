@@ -1,8 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Dfdb 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@78.40.116.245:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇸🇪 Sweden | Alexhost SRL 1
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.93:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=xsfvxv55x1.fx03.ccwu.cc&sni=xsfvxv55x1.fx03.ccwu.cc#🇸🇪 Sweden | Cloudflare, 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Portlane Network 1
+vless://3e434436-8137-4e04-8ecf-a3b41c62817f@81.200.151.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh1.vk.com&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1

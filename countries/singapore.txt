@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@89.169.8.105:443?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.sh21.eu.org&sni=snippet.sh21.eu.org#🇸🇬 Singapore | CDS Global Cloud Co., 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F#🇸🇬 Singapore | OVH SAS 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇸🇬 Singapore | OVH SAS 1
