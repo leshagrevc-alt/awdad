@@ -1,11 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:22443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=jMGy882A7gjFWX_CxSqf55y92KPyBCh0hKDPKy6-iy4&sid=3f10b9b66741e036&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.82.76.253:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🇺🇸 United States | Cloudflare, 1
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.196.73:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=thj.huangzi.cfd&sni=thj.huangzi.cfd#🇺🇸 United States | HostPapa 1
-vless://9ee1f470-2785-411d-aac3-5eb860d926fc@212.233.72.120:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
-vless://9ee1f470-2785-411d-aac3-5eb860d926fc@85.192.34.62:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 2
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.201.147.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=random&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | Ace Data Centers II, L... 2
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1

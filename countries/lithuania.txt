@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://5c0f35c8-e8e8-4fd5-8a27-57230ac3ca64@51.250.18.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=owtENmCVGUgOLX9Q2FeojbLlPhD5docIeU1aCFobgBk&sid=e0&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.198.136:10443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=JMvKFS-WsH98NY0wKudU6sAIadRTo88EL8NBvBjWTHQ&sid=2cbada97ab&spx=%2F#🇱🇹 Lithuania | Cherry Servers 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.198.136:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=celular.vk.com&pbk=53np4dm7wFCgvoOfGCX2w6WHxq3590b62a2Yiq66N00&sid=4cb24ada97&spx=%2F#🇱🇹 Lithuania | Cherry Servers 2

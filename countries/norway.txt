@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c9a92653-69ef-4291-b2c9-fd0ed9e6d4ea@176.122.27.49:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=KZvWAhkTcdXO5_pJCX9h0AzKL1ime5_ZHrHj9lYI-Fc&sid=48a7d74aff6a&spx=%2F#🇳🇴 Norway | ServeTheWorld 1
