@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 21:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 21:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:20443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=m5JYM9JhDND2wtSGcTYyediFMXoyJia9xfUy-HA6fhM&sid=69cba355948aa01c&spx=%2F#🌍 Albania | Albanian Hosting SH.P.K. 1
 vless://b09cbddb-c5a7-40d4-86d0-0c2d113ca357@noda2.zapret-tg.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=noda2.zapret-tg.ru&fp=chrome&pbk=5Rc4z-sQ8c_YXqoTLktZfkgE8FaRy6UjFKwLASIVoAg&sid=3fbc4aec3243f6b5&spx=%2F&type=tcp&headerType=none#🌍 Albania | OC NETWORKS LIMITED 1
