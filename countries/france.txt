@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 04:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 04:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.120.129:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🇫🇷 France | F5 Networks SARL 1
