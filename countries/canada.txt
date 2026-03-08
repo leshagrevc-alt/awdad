@@ -1,15 +1,21 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 09:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 09:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.103.135:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | Atlantic.net 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.9.202:443?encryption=none&type=ws&security=tls&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇨🇦 Canada | Choopa 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🇨🇦 Canada | DigitalOcean, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev#🇨🇦 Canada | HostPapa 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.21.253.63:443?encryption=none&security=tls&sni=sni.111000.v6.navy&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇨🇦 Canada | HostPapa 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#🇨🇦 Canada | Kamatera, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | Oracle 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 Canada | Oracle 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.134.248:2003?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?ed%3D2560&sni=sni.111000.dynv6.net&fp=chrome#🇨🇦 Canada | Centrilogic 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 Canada | Centrilogic 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=/?ed=2560&Telegram🇨🇳 @app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | Choopa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.229.78:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Canada | HostPapa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.dynv6.net&fp=chrome&sni=sni.111000.dynv6.net#🇨🇦 Canada | HostPapa 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.20:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=nameless-violet-d45c.anthony900.workers.dev&type=ws&allowInsecure=0&sni=nameless-violet-d45c.anthony900.workers.dev#🇨🇦 Canada | HostPapa 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | HostPapa 4
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦 Canada | Kamatera, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#🇨🇦 Canada | Kamatera, 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🇨🇦 Canada | Kemono Network INC. 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#🇨🇦 Canada | Oracle 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 Canada | Oracle 2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇨🇦 Canada | OVH SAS 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.243.248:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@alixtso#🇨🇦 Canada | OVH SAS 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&host=sant.atira-40.workers.dev&fp=chrome&sni=sant.atira-40.workers.dev&alpn=http%2F1.1#🇨🇦 Canada | OVH SAS 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇨🇦 Canada | OVH SAS 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | OVH SAS 4
