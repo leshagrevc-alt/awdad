@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://ff238176-3cc9-4b97-a295-5678919d5cdb@144.31.130.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Q3LeFdt8Tl-yS9xTD9Q4GONrA9yqXYxbHsrCU2-BvQQ&sid=6e752a0d4d15e0f9#🌍 Cyprus | H2nexus LTD 1
