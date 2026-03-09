@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 16:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 16:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦 Canada | Atlantic.net 1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=/?Telegram🇨🇳 @WangCai2=&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🇨🇦 Canada | Centrilogic 1
