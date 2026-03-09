@@ -1,6 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 02:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://8f56d326-a7ca-4dc5-b377-1354a2054d35@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://ef621e9c-6644-4b4d-990b-40af5e51b189@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://d9e1d8d9-e5a9-43fa-ae21-3fefb5f9d0d3@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 2
