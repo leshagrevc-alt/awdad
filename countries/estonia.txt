@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 19:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 20:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@51.250.40.245:8443?encryption=none&security=reality&sni=eh.vk.com&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=grpc&authority=&serviceName=grpc&mode=gun#🇪🇪 Estonia | HostSlim B.V. 1
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@216.144.231.93:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇪🇪 Estonia | HostPapa 1
