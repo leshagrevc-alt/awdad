@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 05:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 05:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://7d7d00cb-53a3-4cb4-bef7-3b2d431b1107@172.64.155.209:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiRlpGZjNZYno0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=telegram.proxie1-tel.workers.dev&sni=telegram.proxie1-tel.workers.dev#🇸🇪 Sweden | Aeza International LTD 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:23443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=I97ZYjRohSDb6i5mf88MDhoJcWQBL9KC3xCZf7rwRwc&sid=b4ddf15fe9ea7afa&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&type=ws&security=tls&path=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#🇸🇪 Sweden | Cloudflare, 1
+vless://d6bd8ff1-a340-415a-acea-2f902d9c3376@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
