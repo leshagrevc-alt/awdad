@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 23:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 23:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6f35612a-2368-4a28-8935-c22c7e140029@144.31.168.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=cache.deb.cdn.stemstep.cloud&pbk=wtb8aEggZYyNzW4wM5JLO8mRDU9nCH4cFWJbpdhfKTo&sid=8fbd7770b2ae5594#🌍 Albania | OC NETWORKS LIMITED 1
