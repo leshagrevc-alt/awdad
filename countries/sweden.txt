@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 13:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 14:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 1
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?encryption=none&type=ws&security=tls&host=daluan.eu.org&fp=randomized&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 1
