@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 07:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443?encryption=none&type=ws&security=tls&host=myserviran.serviran.workers.dev&sni=myserviran.serviran.workers.dev#🇸🇬 Singapore | Oracle 1
 vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?encryption=none&type=ws&security=tls&path=%2F&host=fancy-haze-01e3.ipv4-917.workers.dev&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇸🇬 Singapore | Shenzhen Tencent Compu... 1
