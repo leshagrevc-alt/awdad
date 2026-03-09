@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 03:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 03:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:20443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=m5JYM9JhDND2wtSGcTYyediFMXoyJia9xfUy-HA6fhM&sid=69cba355948aa01c&spx=%2F#🌍 Albania | Albanian Hosting SH.P.K. 1
