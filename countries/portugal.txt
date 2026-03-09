@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 15:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#🇵🇹 Portugal | WorkTitans B.V. 1
