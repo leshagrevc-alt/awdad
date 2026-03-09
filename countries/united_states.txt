@@ -1,10 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 11:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 11:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@51.250.8.240:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=ads.x5.ru#🇺🇸 United States | AEZA-NETWORK-CLT 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.195.253:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#🇺🇸 United States | Atlantic.net 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=jjk.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=y670.0h0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nj89.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.187.251:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F&host=empty-dawn-c148.elenac4.workers.dev&sni=empty-dawn-c148.elenac4.workers.dev#🇺🇸 United States | Atlantic.net 1
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=%2Fproxyip%3Dsjc.o00o.ooo&host=x1.mwu.de5.net&sni=x1.mwu.de5.net#🇺🇸 United States | Baxet Group 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.60.175:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=bbbn66y.1sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://e55e49ca-227b-445b-9801-cfe5b59e7bff@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
+vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.210.30:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇺🇸 United States | WorkTitans B.V. 1
