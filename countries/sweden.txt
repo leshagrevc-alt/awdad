@@ -1,7 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 00:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 00:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@se.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.scroogethebest.com&fp=random&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Alexhost SRL 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:23443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=I97ZYjRohSDb6i5mf88MDhoJcWQBL9KC3xCZf7rwRwc&sid=b4ddf15fe9ea7afa&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1
+vless://0f44079e-f740-4c28-aac7-7898abdb3252@78.40.116.242:443?encryption=none&security=reality&sni=se.denditop.site&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&sid=9c2378562188c3cb&spx=%2F&type=grpc#🇸🇪 Sweden | Alexhost SRL 1
+vless://de9ad53a-fc07-1770-b804-b67311b1da76@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇸🇪 Sweden | Play2go International 1
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2

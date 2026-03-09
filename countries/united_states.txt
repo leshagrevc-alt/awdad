@@ -1,13 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 00:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 00:45 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@81.200.150.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=6SR0YC92Cx8gJBicP7rIN-j935iRk1DcvCkXqSpLi0I&sid=e8625fbd536a2870&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.49.5:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 1
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.139.251:443?encryption=none&type=ws&security=tls&path=%2FeDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&fp=chrome&sni=rt.dddc.us.ci#🇺🇸 United States | HostPapa 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.164.139:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nj89.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=b8ki.0g0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://166b4a73-ac2f-1b58-b3b9-9c6f93e0464e@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇺🇸 United States | Scalaxy B.V. 1
-vless://de9ad53a-fc07-1b58-b804-b67311b1da76@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇺🇸 United States | Scalaxy B.V. 2
-vless://de9ad53a-fc07-1b58-b804-b67311b1da76@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇺🇸 United States | Scalaxy B.V. 3
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@81.200.150.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=travel.yandex.ru&pbk=FRQNVx5M9doUxGobDzrjXNd5sD4sGVEdJfm_fC-zKiI&sid=49905f77f1aac347&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.1.213:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=rggbnhju7.0gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.88.226:443?encryption=none&type=ws&security=tls&path=%2F391sfnZ2bBhmKb8nOkg&host=gggbnh7.www890604.dpdns.org&fp=chrome&sni=gggbnh7.www890604.dpdns.org&alpn=http%2F1.1#🇺🇸 United States | Massivegrid LTD 2
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2FIq3945ZsqJBAQ5Ah&host=sxcvf54.0wu.ccwu.cc&sni=sxcvf54.0wu.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@usa.top.subtrust.ru:443?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Chac04Nq2MHCQPp5sfph6egLqZul5Dj8JPMUN4iX4U8&sid=b9c2aeacce&spx=%2F&type=tcp&headerType=none#🇺🇸 United States | netcup GmbH 1
