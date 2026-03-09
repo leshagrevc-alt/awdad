@@ -1,10 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 2
-vless://9b354a64-81f6-4a15-a127-337cd17e25ba@172.67.142.219:80?encryption=none&type=ws&security=none&path=%2FIBb38gsTRjFOzklVEUuTu7GKK&host=nmjju8.0sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@51.250.8.240:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇺🇸 United States | Aeza International LTD 1
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@84.201.142.182:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#🇺🇸 United States | Aeza International LTD 2
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@51.250.8.240:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇺🇸 United States | Aeza International LTD 3
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=%2Fproxyip%3Dsjc.o00o.ooo&host=x1.mwu.de5.net&fp=random&sni=x1.mwu.de5.net#🇺🇸 United States | DMIT Cloud Services 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.219.203:80?encryption=none&type=ws&security=none&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmki.1yy.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
 vless://4052b423-3059-4f2e-9d30-dbdfa33b5c66@79.137.174.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=random&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35&type=tcp&headerType=none#🇺🇸 United States | UAB Cherry Servers 1
-vless://e55e49ca-227b-445b-9801-cfe5b59e7bff@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 2

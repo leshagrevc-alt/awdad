@@ -1,11 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://1458005d-5f7b-46e4-82f7-f23b809e8c5d@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 1
-vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@185.86.146.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=JGY6l8LkU01UqIZEhGT2rhVT8TF1xrTYZl24JOzBGEg&sid=0f4dacf08722a04f#🇳🇱 Netherlands | Hostkey B.V. 1
-vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@185.86.146.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=JGY6l8LkU01UqIZEhGT2rhVT8TF1xrTYZl24JOzBGEg&sid=0f4dacf08722a04f#🇳🇱 Netherlands | Hostkey B.V. 2
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#🇳🇱 Netherlands | Liam Kremer 1
+vless://f8d81152-ee0f-453c-afbf-e07732209a8d@51.250.6.105:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
+vless://42191252-2937-404a-a982-04519c71e26a@185.241.192.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
 vless://42191252-2937-404a-a982-04519c71e26a@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F#🇳🇱 Netherlands | Liam Kremer 2
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@178.154.197.171:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇳🇱 Netherlands | WorkTitans B.V. 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@95.163.212.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#🇳🇱 Netherlands | Liam Kremer 3
+vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@178.154.194.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇳🇱 Netherlands | WorkTitans B.V. 1
+vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇳🇱 Netherlands | WorkTitans B.V. 2
