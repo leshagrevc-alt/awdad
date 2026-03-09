@@ -1,6 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 19:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 19:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | HZ Hosting 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@109.120.189.97:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇪 Sweden | FDCservers.net 1
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@109.120.188.164:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇪 Sweden | FDCservers.net 2
