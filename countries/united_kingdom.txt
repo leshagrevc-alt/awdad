@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 03:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 03:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇬🇧 United Kingdom | Aeza International LTD 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@uk2.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk2.darknet.run&fp=chrome&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&sid=a1b223d4&spx=%2F&type=tcp&headerType=none#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.235:80?encryption=none&type=ws&security=none&host=amirvpn.amirhm00100.workers.dev#🇬🇧 United Kingdom | WorkTitans B.V. 1
