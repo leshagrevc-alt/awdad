@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 15:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F&host=azadnet-1ml.pages.dev&sni=azadnet-1ml.pages.dev#🇸🇪 Sweden | Cloudflare, 1
 vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@109.120.188.164:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇪 Sweden | FDCservers.net 1
