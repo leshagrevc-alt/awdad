@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 04:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 04:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?encryption=none&type=ws&security=none&host=vpnpro.eshghiabolfazl2009.workers.dev#🇸🇬 Singapore | The Constant Company 1
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@172.67.150.247:443?encryption=none&type=ws&security=tls&host=myserviran.serviran.workers.dev&sni=myserviran.serviran.workers.dev#🇸🇬 Singapore | Shenzhen Tencent Compu... 1
