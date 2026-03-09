@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 France | Aeza International LTD 1
-vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.209.148:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 France | Aeza International LTD 2
+vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇫🇷 France | Aeza International LTD 1

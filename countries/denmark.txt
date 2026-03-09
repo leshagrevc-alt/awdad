@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dk21.strelkavpn.com&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304#🇩🇰 Denmark | WorkTitans B.V. 1
