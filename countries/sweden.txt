@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 05:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 06:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&type=ws&security=tls&path=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://d6bd8ff1-a340-415a-acea-2f902d9c3376@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | Internetport AB -BL 1
