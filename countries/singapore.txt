@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 09:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 09:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?encryption=none&type=ws&security=tls&path=%2F&host=fancy-haze-01e3.ipv4-917.workers.dev&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇸🇬 Singapore | Alibaba (US) Technolog... 1
 vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=long-forest-ac72.salari1382m.workers.dev#🇸🇬 Singapore | DIGITALOCEAN 1

@@ -1,6 +1,11 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 09:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 09:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.dynv6.net&fp=chrome&sni=sni.111000.dynv6.net#🇨🇦 Canada | Atlantic.net 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Canada | Atlantic.net 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&fp=chrome&sni=sni.jpmj.dev#🇨🇦 Canada | Choopa 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev#🇨🇦 Canada | Choopa 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=Telegram=@N3TWRK&sni=sni.111000.indevs.in&fp=chrome#🇨🇦 Canada | Kamatera, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%D1%97%D1%97%40WangCai2%3D#🇨🇦 Canada | Kamatera, 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.26.128:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦 Canada | Kamatera, 3
