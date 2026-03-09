@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 20:45 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 21:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@51.250.8.240:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇺🇸 United States | Aeza International LTD 1
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nj89.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
