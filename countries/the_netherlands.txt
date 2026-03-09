@@ -1,11 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 21:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 21:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#🇳🇱 The Netherlands | Liam Kremer 1
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 2
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 3
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 4
-vless://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&sid=ac43#🇳🇱 The Netherlands | Servers Tech Fzco 1
-vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@51.250.93.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇳🇱 The Netherlands | WorkTitans B.V. 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@95.163.212.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#🇳🇱 The Netherlands | Liam Kremer 2
+vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇳🇱 The Netherlands | Liam Kremer 3
