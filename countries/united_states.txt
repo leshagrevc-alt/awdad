@@ -1,10 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 10:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@84.201.142.182:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&type=grpc&authority=&serviceName=grpc&mode=gun#🇺🇸 United States | Aeza International LTD 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.229.97.221:8443?encryption=none&type=ws&security=tls&path=%2F%253Fed%253D2560%2526Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net#🇺🇸 United States | Atlantic.net 1
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=cdvbghy.2xv.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.72.77:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=sxcvf54.0wu.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=b8ki.0g0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#🇺🇸 United States | Atlantic.net 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=jjk.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.176.102:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=sxcvf54.0wu.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
