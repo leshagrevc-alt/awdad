@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 01:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 01:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@ch.darknet.run:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch.darknet.run&fp=chrome&pbk=jzgW1D-CRXDacFXk0Y3kV0h667Cf59buIZvLWty5NkM&sid=a9b223d4&spx=%2F&type=tcp&headerType=none#🇨🇭 Switzerland | Hostkey B.V. 1

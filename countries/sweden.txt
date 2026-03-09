@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 01:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 01:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 1
-vless://6cc88c86-086f-4bac-bc18-a9b63399f5e3@90.156.216.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=-i9Y1O8h9xZUCCbzW6u5IkBKuaeVjHbqVxc_8nzv8ww#🇸🇪 Sweden | Aeza International LTD 2
+vless://d6bd8ff1-a340-415a-acea-2f902d9c3376@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
