@@ -1,11 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 22:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 23:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@5.188.140.3:12671?encryption=none&type=ws&security=tls&path=%2Fapi&host=games.vles.space&fp=firefox&sni=games.vles.space&alpn=h3%2Ch2%2Chttp%2F1.1#🇵🇱 Poland | Baykov Ilya Sergeevich 1
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@95.163.212.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://42191252-2937-404a-a982-04519c71e26a@185.241.194.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.5.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.209.148:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
-vless://39638b78-3e27-4d9d-affa-ed13ce0c85b7@95.163.210.30:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&type=ws&security=none&host=vip.yaml7.ggff.net#🇵🇱 Poland | H2nexus LTD 1
+vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
