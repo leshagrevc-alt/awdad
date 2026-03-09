@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&type=ws&security=none&path=%2F%40WireXnet&host=britain.xydcqd.workers.dev#🇬🇧 United Kingdom | Oracle 1
