@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 23:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 23:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.40.229:2096?encryption=none&type=ws&security=tls&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&sni=free-server.techsonic.ggff.net#🇸🇬 Singapore | DigitalOcean, 1
