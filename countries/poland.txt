@@ -1,10 +1,13 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 17:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 18:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:8444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&sni=ads.x5.ru#🇵🇱 Poland | H2nexus LTD 1
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@185.241.192.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.210.30:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
-vless://8e818ed9-2545-4221-b726-01d44e808513@87.239.109.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 1
+vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
+vless://42191252-2937-404a-a982-04519c71e26a@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
+vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@84.201.143.62:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=sun6-22.userapi.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#🇵🇱 Poland | Newserverlife 1
+vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@213.219.214.99:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79#🇵🇱 Poland | SKYTECHNOLOGY 1
 vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 2
+vless://8e818ed9-2545-4221-b726-01d44e808513@146.185.243.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#🇵🇱 Poland | SKYTECHNOLOGY 3
