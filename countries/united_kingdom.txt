@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 00:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 00:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.24:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇬🇧 United Kingdom | Cloudflare, 1
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@144.31.213.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=uk2.darknet.run&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&sid=a1b223d4&spx=%2F#🇬🇧 United Kingdom | SERV.HOST GROUP LTD 1
