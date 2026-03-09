@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 15:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 15:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&type=ws&security=tls&path=%2Fazadnet-1ml.pages.dev%2F&host=azadnet-1ml.pages.dev&sni=azadnet-1ml.pages.dev#🇸🇪 Sweden | Cloudflare, 1
-vless://379a2c6c-1b7d-4796-9e8c-ddfeedb31c3b@109.120.188.164:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇸🇪 Sweden | FDCservers.net 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#🇸🇪 Sweden | Cloudflare, 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇸🇪 Sweden | M247 Europe SRL 1
