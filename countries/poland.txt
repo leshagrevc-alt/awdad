@@ -1,12 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 22:15 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 22:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.1.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pl.fasti.win&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 Poland | H2nexus LTD 1
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.210.30:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 2
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.210.30:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 3
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 1
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 2
+vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117#🇵🇱 Poland | H2nexus LTD 1
+vless://805b5bb5-588e-4f27-8e43-5496317c3740@178.154.197.171:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
