@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 18:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 18:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://1458005d-5f7b-46e4-82f7-f23b809e8c5d@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 1
 vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@185.86.146.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=JGY6l8LkU01UqIZEhGT2rhVT8TF1xrTYZl24JOzBGEg&sid=0f4dacf08722a04f#🇳🇱 Netherlands | Hostkey B.V. 1
