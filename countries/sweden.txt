@@ -1,6 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 03:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@172.64.147.104:8880?encryption=none&type=ws&security=none&path=%2F512&host=hmedrza.ghwhdr51.workers.dev#🇸🇪 Sweden | Oracle 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&type=ws&security=none&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://57aa311c-c21d-40ad-91c3-7a6b7cd36ea2@ardena.icu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ardena.icu&fp=chrome&pbk=22mH2kO_6Q43slZjf-njD9TMv9xeYMA1P28PzEtqOWo&type=tcp&headerType=none&host=ardena.icu#🇸🇪 Sweden | OC NETWORKS LIMITED 1
+vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=celular.vk.com&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
