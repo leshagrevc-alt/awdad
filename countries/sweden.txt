@@ -1,8 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 06:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 06:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.97.3:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#🇸🇪 Sweden | Cloudflare, 1
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@104.21.25.157:443?encryption=none&type=ws&security=tls&path=ws&host=square-sea-36d2.sendconfig.workers.dev&sni=square-sea-36d2.sendconfig.workers.dev#🇸🇪 Sweden | Cloudflare, 2
 vless://166b4a73-ac2f-1770-b3b9-9c6f93e0464e@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇸🇪 Sweden | Play2go International 1
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.212.11:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9&spx=%2F&type=tcp&headerType=none#🇸🇪 Sweden | Play2go International 2
-vless://866da810-96c9-4866-a009-6fe039516efa@89.208.196.115:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&spx=%2F#🇸🇪 Sweden | UAB Cherry Servers 1
