@@ -1,6 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 02:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 02:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.169.10.12:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy#🇸🇬 Singapore | OVH SAS 1
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@162.159.36.5:443?encryption=none&type=ws&security=tls&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev#🇸🇬 Singapore | Aceville Pte.ltd 1
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@162.159.36.20:443?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&sni=lively-brook-c471.nedena3319.workers.dev#🇸🇬 Singapore | DIGITALOCEAN 1
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443?encryption=none&type=ws&security=tls&host=myserviran.serviran.workers.dev&sni=myserviran.serviran.workers.dev#🇸🇬 Singapore | DigitalOcean, 1
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?encryption=none&type=ws&security=none&host=vpnpro.eshghiabolfazl2009.workers.dev#🇸🇬 Singapore | DigitalOcean, 2
