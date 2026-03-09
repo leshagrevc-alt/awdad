@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 17:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 09.03.2026 17:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇪🇸 Spain | Fornex Hosting S.L 1
