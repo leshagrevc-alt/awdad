@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 08:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@5.188.140.3:12671?encryption=none&type=ws&security=tls&path=%2Fapi&host=games.vles.space&fp=firefox&sni=games.vles.space&alpn=h3%2Ch2%2Chttp%2F1.1#🇵🇱 Poland | Baykov Ilya Sergeevich 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@213.219.214.99:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
