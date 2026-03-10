@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 10:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.192.0:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&host=nameless-heart-02e4.ariya-696.workers.dev&sni=nameless-heart-02e4.ariya-696.workers.dev#🇸🇬 Singapore | OVH SAS 1
+vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.40.229:2096?encryption=none&type=ws&security=tls&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&sni=free-server.techsonic.ggff.net#🇸🇬 Singapore | DigitalOcean, 1
