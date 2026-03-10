@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 01:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6f35612a-2368-4a28-8935-c22c7e140029@103.213.249.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=yandex.ru&pbk=cTPVHpWKxuK-BOgZ7j0hleXfO9bx4VUVHhReuAieIRA&sid=97ad88ccc8232bfe#🇸🇪 Sweden | SIA VEESP 1

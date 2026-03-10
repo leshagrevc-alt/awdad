@@ -1,13 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 01:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://b52989b9-09dc-4ca0-b722-e6fe3e8a0313@5.188.140.3:12671?encryption=none&type=ws&security=tls&path=%2Fapi&host=games.vles.space&fp=firefox&sni=games.vles.space&alpn=h3%2Ch2%2Chttp%2F1.1#🇵🇱 Poland | Baykov Ilya Sergeevich 1
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://42191252-2937-404a-a982-04519c71e26a@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
-vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.209.148:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 1
-vless://42191252-2937-404a-a982-04519c71e26a@185.241.194.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | SKYTECHNOLOGY 2
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@87.239.109.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | SKYTECHNOLOGY 3
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.1.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pl.fasti.win&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 Poland | H2nexus LTD 1
