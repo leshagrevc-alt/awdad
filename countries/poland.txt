@@ -1,7 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 06:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 06:47 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@95.163.212.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
-vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
+vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 1

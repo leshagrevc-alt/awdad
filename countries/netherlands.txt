@@ -1,9 +1,15 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 06:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 06:47 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6d28d8cb-3c5a-4a35-81bc-092ef4c58f7b@51.250.86.241:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
-vless://a821e92c-0ea3-41eb-9806-d006bcb9557c@51.250.86.241:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 2
-vless://f971c435-5dac-4527-a345-392b4d23b0d7@51.250.6.105:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 3
-vless://0445bbf2-aecf-41ad-966d-187a020dc6e0@51.250.9.38:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=google.com&pbk=HnucGdog8rJ6soHa_cEWC2n-uhxujHV0xapBMmqQhyQ#🇳🇱 Netherlands | Eternity International 1
+vless://f7419372-786b-4bcc-8edf-651cbb3912f4@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
+vless://3036c009-b0d3-4172-ac3a-252500d4c962@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA#🇳🇱 Netherlands | "HOSTOFF CSL" 2
+vless://2e3982b9-e6d1-4fed-a2cb-47246c0c6205@51.250.3.29:7445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F&type=tcp&headerType=none#🇳🇱 Netherlands | "HOSTOFF CSL" 3
+vless://39a45a91-f224-42ca-9042-ecde453f8905@51.250.64.147:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 4
+vless://e2b4af61-7bce-4b30-96ba-66bcd99d5fff@51.250.3.29:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 5
+vless://87560233-1d22-4a03-9117-47bb63a6bec2@51.250.6.105:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 6
+vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@146.185.243.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@146.185.243.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=%2F#🇳🇱 Netherlands | Liam Kremer 2
+vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&spx=%2F#🇳🇱 Netherlands | Liam Kremer 3
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@202.71.14.61:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇳🇱 Netherlands | SOLLUTIUM EU Sp z.o.o. 1

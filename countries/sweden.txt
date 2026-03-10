@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 06:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 06:47 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Baxet Group 1
 vless://6f35612a-2368-4a28-8935-c22c7e140029@103.213.249.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=yandex.ru&pbk=cTPVHpWKxuK-BOgZ7j0hleXfO9bx4VUVHhReuAieIRA&sid=97ad88ccc8232bfe#🇸🇪 Sweden | SIA VEESP 1
