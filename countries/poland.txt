@@ -1,6 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 02:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 02:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.1.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pl.fasti.win&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 Poland | H2nexus LTD 1
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
+vless://42191252-2937-404a-a982-04519c71e26a@185.241.194.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F&type=tcp&headerType=none#🇵🇱 Poland | MEVSPACE sp. z o.o. 2
+vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 3
+vless://42191252-2937-404a-a982-04519c71e26a@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=%2F#🇵🇱 Poland | SKYTECHNOLOGY 1
