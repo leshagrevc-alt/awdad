@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@89.208.223.98:4359?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.perekrestok.ru&fp=random&pbk=Lh8OidowfHMz60lbfuQrWNnYPZZBJhBJ_n5V-yVB7nU&sid=#🇸🇪 Sweden | TAKEHOST 1
+vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass1.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=aad92345#🇸🇪 Sweden | SERV.HOST GROUP LTD 1

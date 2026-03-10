@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://26524cce-d514-4014-a426-365fb266a14d@185.243.112.197:443?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇸🇬 Singapore | CDS Global Cloud Co., 1
+vless://26524cce-d514-4014-a426-365fb266a14d@185.216.13.153:8443?security=tls&type=ws&path=%2Fdanfeng&host=fqrf5tlc.chinav.eu.org&sni=fqrf5tlc.chinav.eu.org&fp=random#🇸🇬 Singapore | CDS Global Cloud Co., 1
