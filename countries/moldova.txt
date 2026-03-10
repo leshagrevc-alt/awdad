@@ -1,8 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://3b79795b-f964-4ae2-be31-5e629a21945b@51.250.83.87:443?type=grpc&security=reality&fp=&pbk=rtAfynTPF4-LHlP3NFwXFZftzwcf52XlsdYT0-1OGiE&sid=a1b2c3d4e5f6a7b8&sni=ads.x5.ru&mode=gun&serviceName=&authority=#🇲🇩 Moldova | Global Connectivity So... 1
-vless://3cad6059-b629-45c5-bac0-e49860f42d41@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#🇲🇩 Moldova | Global Connectivity So... 2
-vless://f971c435-5dac-4527-a345-392b4d23b0d7@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 3
+vless://34c1bca4-045f-40bd-a89b-5f51f2d882ac@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#🇲🇩 Moldova | Global Connectivity So... 1
+vless://1458005d-5f7b-46e4-82f7-f23b809e8c5d@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#🇲🇩 Moldova | Global Connectivity So... 2
+vless://3869fc33-e355-4469-b150-29d66044edc8@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#🇲🇩 Moldova | Global Connectivity So... 3
+vless://7b2b1d67-cc7e-4873-9aef-af95bdc6bcaf@185.130.112.165:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 4

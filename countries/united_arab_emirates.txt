@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://adad2034-0510-4a4e-8759-77a8244e521a@37.139.33.156:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Yc8UKKVXZed7fz1yxWOzBamSns-_t3thFdHr8DIzkyc&sid=4e352b0d4d15e0f9#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1

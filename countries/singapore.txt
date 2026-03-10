@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.40.229:2096?encryption=none&type=ws&security=tls&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&sni=free-server.techsonic.ggff.net#🇸🇬 Singapore | DigitalOcean, 1
+vless://26524cce-d514-4014-a426-365fb266a14d@185.243.112.197:443?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇸🇬 Singapore | CDS Global Cloud Co., 1

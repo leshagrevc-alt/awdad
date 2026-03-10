@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#🇳🇱 Netherlands | Play2go International 1
-vless://7d5b53b5-e1c7-4a64-9bd0-4fe4c695b731@84.201.135.143:8443?encryption=none&security=reality&sni=disk.yandex.ru&fp=chrome&pbk=DwChpI901hRtRdohsEHhu1bGDkHEtBQ2tnrRZFaNSh8&sid=7458&type=tcp&headerType=none#🇳🇱 Netherlands | Timeweb 1
+vless://399cd23a-f17e-4db6-83a4-b5c22aecdf8f@51.250.25.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0#🇳🇱 Netherlands | WAIcore 1
+vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@178.154.194.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇳🇱 Netherlands | WorkTitans B.V. 1
