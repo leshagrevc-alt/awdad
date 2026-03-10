@@ -1,11 +1,10 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 09.03.2026 23:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 00:00 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.201.137.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@172.67.138.153:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@104.21.14.86:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=ddvfgt.0ob.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.2.161:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=c6y.0c0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@104.21.14.186:80?encryption=none&type=ws&security=none&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=bnnnjju8.09o.ccwu.cc#🇺🇸 United States | Massivegrid LTD 4
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=vb-p.0c0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 5
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@84.201.147.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#🇺🇸 United States | Ace Data Centers II, L... 1
+vless://c558328b-eb46-424c-b9e0-574770f0b072@172.67.170.248:80?encryption=none&type=ws&security=none&path=%2Fv8clafFSnPXNC0BXGtJ&host=l098.zem.indevs.in#🇺🇸 United States | Massivegrid LTD 1
+vless://9b354a64-81f6-4a15-a127-337cd17e25ba@104.21.87.73:80?encryption=none&type=ws&security=none&path=%2FIBb38gsTRjFOzklVEUuTu7GKK&host=nghnju.2yo.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.55.172:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=mki.1x3.indevs.in&sni=mki.1x3.indevs.in#🇺🇸 United States | Massivegrid LTD 3
+vless://e9a090c6-5d26-481e-b4da-e512b793d254@109.120.189.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
