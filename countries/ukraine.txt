@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 09:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 09:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#🇺🇦 Ukraine | South Park Networks 1
