@@ -1,8 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 12:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@89.208.223.36:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&pbk=0xj9IeoYD2rfkVCwThy8KdshLou3xaN0yhQm-kEAxGE&sid=#🇵🇱 Poland | H2nexus LTD 1
-vless://426fb7a0-3b7a-4aa5-870e-f61190ad2a15@51.250.25.103:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&sid=b1d8aa4aad&sni=event.yandex.ru&path=&host=&spx=/#🇵🇱 Poland | H2nexus LTD 2
-vless://805b5bb5-588e-4f27-8e43-5496317c3740@95.163.209.148:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland | Qwins LTD 1
