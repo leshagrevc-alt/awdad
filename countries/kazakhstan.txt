@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 05:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 05:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=booking.com&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&type=tcp&headerType=none#🇰🇿 Kazakhstan | Newserverlife 1

@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 05:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 05:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@172.67.216.218:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=stipulations.gelatin.workers.dev&sni=stipulations.gelatin.workers.dev#🇳🇱 The Netherlands | Timeweb, LLP 1
