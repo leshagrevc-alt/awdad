@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 11:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 11:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=fffvvbgh.05o.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
 vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@104.21.8.58:443?encryption=none&type=ws&security=tls&path=%2FHoBSIvRY1m5xOEJ3dX414bl&host=ggggjki.1xb.ccwu.cc&fp=chrome&sni=ggggjki.1xb.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
