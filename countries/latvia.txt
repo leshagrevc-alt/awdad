@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 00:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 00:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@la-general.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&type=tcp&headerType=none#🇱🇻 Latvia | Baxet Group 1
+vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@144.31.129.230:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#🇱🇻 Latvia | H2nexus LTD 1
