@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 09:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com#🇸🇪 Sweden | Cloudflare, 1
