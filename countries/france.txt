@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 10:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://e9a090c6-5d26-481e-b4da-e512b793d254@5.188.143.115:10443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a#🇫🇷 France | WorkTitans B.V. 1
+vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=PxUKwryy5qyxFrLzqyfi472_vWNZFQqh0V5z_ADXzRo&sid=6ba85179e30d4fc2#🇫🇷 France | Datacamp 1
