@@ -1,9 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 08:31 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nj89.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.198.237:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=bbbn66y.1sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=cdvbghy.2xv.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
-vless://e9a090c6-5d26-481e-b4da-e512b793d254@109.120.189.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
+vless://9b354a64-81f6-4a15-a127-337cd17e25ba@104.21.87.73:80?encryption=none&type=ws&security=none&path=%2FIBb38gsTRjFOzklVEUuTu7GKK&host=nghnju.2yo.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://b020865b-7404-4894-ba65-a7414b10cda3@172.67.219.196:443?encryption=none&type=ws&security=tls&path=%2F15ZYK3adOPjqSc7fzeJr&host=mmko.852224.dpdns.org&sni=mmko.852224.dpdns.org#🇺🇸 United States | Massivegrid LTD 2
