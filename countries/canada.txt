@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.187.251:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F&host=empty-dawn-c148.elenac4.workers.dev&sni=empty-dawn-c148.elenac4.workers.dev#🇨🇦 Canada | OVH SAS 1
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@185.141.216.172:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇦 Canada | Rica Web Services 1

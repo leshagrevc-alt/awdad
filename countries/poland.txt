@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 07:31 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 07:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://8e818ed9-2545-4221-b726-01d44e808513@146.185.243.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#🇵🇱 Poland | MEVSPACE sp. z o.o. 1
+vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@203.189.233.51:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=debug.resolvertest.doh.umbrella.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇵🇱 Poland | H2nexus LTD 1
