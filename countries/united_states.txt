@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 03:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 03:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://45da1143-48d7-4eb7-897f-e924c55212c4@212.233.97.171:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=max.ru&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sid=abcd1234#🇺🇸 United States | Maybe 1
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=%2Fproxyip%3Dsjc.o00o.ooo&host=x1.mwu.de5.net&fp=random&sni=x1.mwu.de5.net#🇺🇸 United States | Serva ONE LTD 1
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?encryption=none&type=ws&security=none&host=sfsl.ardomains1.dpdns.org#🇺🇸 United States | DigitalOcean, 1
+vless://e9a090c6-5d26-481e-b4da-e512b793d254@109.120.189.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
