@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 11:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 12:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | Johan Karlsson trading... 1
 vless://733a9a09-ba93-4e73-b1f3-ae0bcbd88310@172.64.149.80:443?encryption=none&type=ws&security=tls&host=noisy-paper-6b70.grirbp.workers.dev&sni=noisy-paper-6b70.grirbp.workers.dev#🇸🇪 Sweden | xorek.cloud Internatio... 1
