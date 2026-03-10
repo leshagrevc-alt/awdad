@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://a774f61d-a518-4c61-902f-807797da6caf@90.156.216.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=PxUKwryy5qyxFrLzqyfi472_vWNZFQqh0V5z_ADXzRo&sid=6ba85179e30d4fc2#🇫🇷 France | Datacamp 1

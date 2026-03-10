@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?encryption=none&type=ws&security=tls&path=%2Fsni.111000.dynv6.net%2F&host=empty-dawn-c148.elenac4.workers.dev&sni=empty-dawn-c148.elenac4.workers.dev#🇨🇦 Canada | Kemono Network INC. 1

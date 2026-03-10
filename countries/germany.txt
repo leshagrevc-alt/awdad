@@ -1,16 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 10:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 10:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://8e818ed9-2545-4221-b726-01d44e808513@213.219.214.99:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&spx=%2F#🇩🇪 Germany | Ferdinand Zink trading... 1
-vless://8e818ed9-2545-4221-b726-01d44e808513@185.241.192.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F#🇩🇪 Germany | Ferdinand Zink trading... 2
-vless://8e818ed9-2545-4221-b726-01d44e808513@87.239.109.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#🇩🇪 Germany | Ferdinand Zink trading... 3
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&type=ws&security=none&host=vip.yaml7.ggff.net#🇩🇪 Germany | Location: DE 1
-vless://93ad3825-d34a-4246-ac6c-309997c73945@84.201.169.210:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=nsfP_pCDtmyl2ZuyzNYQ4JOkaJN1BHYnEx9XJR1b7F4&sid=e1ab11951029de10&spx=%2F#🇩🇪 Germany | netcup GmbH 1
-vless://b4fa823e-7c4c-4651-bfbd-62eea55eb8c3@51.250.3.29:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#🇩🇪 Germany | Play2go International 1
-vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@109.120.191.31:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | Play2go International 2
-vless://fba7dc74-ed99-03e8-8b5f-a822f254475f@109.120.189.86:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | Senko Digital 1
-vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@109.120.191.31:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | WAIcore 1
-vless://b50665d9-553d-4d8d-a49a-3f70d9524093@51.250.25.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0#🇩🇪 Germany | WAIcore 2
-vless://d6a8b5fa-1ce6-03e8-8f98-1bbb5d182539@5.188.140.35:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | WAIcore 3
+vless://8e818ed9-2545-4221-b726-01d44e808513@185.241.192.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=%2F#🇩🇪 Germany | Ferdinand Zink trading... 1
+vless://b3da836c-d6d8-03e8-ba4a-0a7a54491924@109.120.189.86:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | PLAY2GO LTD 1
+vless://d6a8b5fa-1ce6-03e8-8f98-1bbb5d182539@37.139.33.57:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | PLAY2GO LTD 2
+vless://d0722d01-7ee8-03e8-85e1-d590ad0e60d3@5.188.140.35:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Germany | WAIcore 1
