@@ -1,12 +1,8 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 04:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 05:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://1ca2ad96-6a9f-45ff-94ce-3d4fab491e46@51.250.6.105:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
-vless://bf4f7680-be7f-4314-81be-c896c508c78d@51.250.6.105:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14#🇳🇱 Netherlands | "HOSTOFF CSL" 2
-vless://f971c435-5dac-4527-a345-392b4d23b0d7@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk&spx=%2F#🇳🇱 Netherlands | Global Connectivity So... 1
-vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
-vless://8e818ed9-2545-4221-b726-01d44e808513@146.185.243.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=%2F#🇳🇱 Netherlands | Liam Kremer 2
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.68.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=%2F#🇳🇱 Netherlands | Liam Kremer 3
-vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@178.154.194.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇳🇱 Netherlands | WorkTitans B.V. 1
+vless://bf4f7680-be7f-4314-81be-c896c508c78d@185.130.114.10:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk#🇳🇱 Netherlands | Global Connectivity So... 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=%2F#🇳🇱 Netherlands | Liam Kremer 1
+vless://8e818ed9-2545-4221-b726-01d44e808513@87.239.109.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#🇳🇱 Netherlands | Liam Kremer 2
