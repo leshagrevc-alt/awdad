@@ -1,8 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 03:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a62bcf06-2f45-4d41-a419-0240ec672a0e@141.8.199.126:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇸🇪 Sweden | Alexhost SRL 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&type=ws&security=none&host=vip.yaml7.ggff.net#🇸🇪 Sweden | InterLIR 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇸🇪 Sweden | SIA VEESP 1
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?encryption=none&type=ws&security=tls&path=ws&host=square-sea-36d2.sendconfig.workers.dev&sni=square-sea-36d2.sendconfig.workers.dev#🇸🇪 Sweden | Cloudflare, 1
