@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 04:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 04:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@37.139.34.174:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=5VTUWdqqFug9jo6QNPtkIIuLW4aPjTekg8LAhJNw6Vc&sid=abcd1234#🌍 Iraq | TigrisNet 1
+vless://45da1143-48d7-4eb7-897f-e924c55212c4@185.86.147.232:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=5VTUWdqqFug9jo6QNPtkIIuLW4aPjTekg8LAhJNw6Vc&sid=abcd1234#🌍 Iraq | TigrisNet 1

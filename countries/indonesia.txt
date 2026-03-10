@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 04:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 04:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?encryption=none&type=ws&security=tls&path=%2F&host=labeller.neonime83.workers.dev&sni=labeller.neonime83.workers.dev#🌍 Indonesia | PT Industri Kreatif Di... 1
