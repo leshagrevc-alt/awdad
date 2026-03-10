@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 06:16 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 06:30 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://a915a5db-290b-409e-8378-2283b12d6763@51.250.6.105:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
-vless://1ded0132-ebf0-47f9-a29a-fffa0cdceb43@51.250.64.147:8448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Global Connectivity So... 2
+vless://30ac0502-fe22-4fd0-91fc-77880001a319@185.130.114.10:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 1
+vless://ea592d66-a4cb-4550-8502-676e21cf9b54@51.250.64.147:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#🇲🇩 Moldova | Global Connectivity So... 2
