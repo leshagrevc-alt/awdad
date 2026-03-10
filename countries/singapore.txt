@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 05:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 05:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.41.75:80?encryption=none&type=ws&security=none&host=amirvpn.amirhm00100.workers.dev#🇸🇬 Singapore | DigitalOcean, 1
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.54.173:80?type=ws&security=none&encryption=none&host=amirvpn.amirhm00100.workers.dev#🇸🇬 Singapore | DigitalOcean, 2
