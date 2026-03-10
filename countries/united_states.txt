@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 04:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?encryption=none&type=ws&security=none&host=sfsl.ardomains1.dpdns.org#🇺🇸 United States | Cloudflare, 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@104.21.1.213:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=rggbnhju7.0gg.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
