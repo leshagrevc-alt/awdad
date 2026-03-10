@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 06:47 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 07:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?encryption=none&type=ws&security=none&host=vpnpro.eshghiabolfazl2009.workers.dev#🇸🇬 Singapore | DigitalOcean, 1
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&type=ws&security=none&host=vpnpro.eshghiabolfazl2009.workers.dev#🇸🇬 Singapore | DigitalOcean, 2
