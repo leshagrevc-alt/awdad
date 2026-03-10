@@ -1,8 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 10.03.2026 08:01 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 10.03.2026 08:16 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nu9.0g0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=%2Fproxyip%3Dsjc.o00o.ooo&host=x1.mwu.de5.net&sni=x1.mwu.de5.net#🇺🇸 United States | Serva ONE LTD 1
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.10.224:80?encryption=none&type=ws&security=none&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&host=nj89.0f0.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@172.67.198.237:80?encryption=none&type=ws&security=none&path=%2FIq3945ZsqJBAQ5Ah&host=bbbn66y.1sm.ccwu.cc#🇺🇸 United States | Massivegrid LTD 2
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@188.114.97.3:80?encryption=none&type=ws&security=none&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&host=cdvbghy.2xv.ccwu.cc#🇺🇸 United States | Massivegrid LTD 3
 vless://e9a090c6-5d26-481e-b4da-e512b793d254@109.120.189.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a#🇺🇸 United States | WorkTitans B.V. 1
